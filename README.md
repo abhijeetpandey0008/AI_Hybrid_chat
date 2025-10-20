@@ -178,7 +178,7 @@ Top results: Hanoi, Ho Chi Minh City, Da Nang
 ---
 
 ## 🎥 Demo Video
-🎬 [Add your Loom demo link here](https://loom.com/)  
+🎬 [Video Explaination](https://drive.google.com/file/d/13yxs3Rs4jeXXK-rKHl8H85FmckCxCCCs/view?usp=sharing)  
 
 **Showcase:**
 - Dataset preparation  
