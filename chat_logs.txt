@@ -1,0 +1,10 @@
+
+
+USER: best place to visit in veitnam
+ANSWER: Vietnam offers diverse attractions like Hanoi, Ha Long Bay, and Ho Chi Minh City. For cultural experiences, visit Hanoi Old Quarter; for beaches, Nha Trang and Da Nang; and for history, explore Hue’s Imperial City.
+------------------------------------------------------------
+
+
+USER: best place to visit in vietnam
+ANSWER: Vietnam offers diverse attractions like Hanoi, Ha Long Bay, and Ho Chi Minh City. For cultural experiences, visit Hanoi Old Quarter; for beaches, Nha Trang and Da Nang; and for history, explore Hue’s Imperial City.
+------------------------------------------------------------

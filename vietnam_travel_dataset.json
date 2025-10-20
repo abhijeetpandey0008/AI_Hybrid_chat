@@ -1,0 +1,6392 @@
+[
+  {
+    "id": "city_hanoi",
+    "type": "City",
+    "name": "Hanoi",
+    "region": "Northern Vietnam",
+    "description": "Hanoi is located in Northern Vietnam. It’s known for its culture, food, heritage experiences, combining local culture, food, and history. Travelers often visit for authentic Vietnamese experiences, from exploring markets and temples to trying street food and scenic excursions.",
+    "best_time_to_visit": "February to May",
+    "tags": [
+      "culture",
+      "food",
+      "heritage"
+    ],
+    "semantic_text": "Hanoi offers a mix of culture, food, heritage attractions and is a must-visit for those seeking immersive travel experiences in Vietnam.",
+    "connections": [
+      {
+        "relation": "Connected_To",
+        "target": "city_hue"
+      },
+      {
+        "relation": "Connected_To",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "city_ha_long",
+    "type": "City",
+    "name": "Ha Long Bay",
+    "region": "Northern Vietnam",
+    "description": "Ha Long Bay is located in Northern Vietnam. It’s known for its beach, cruise, nature experiences, combining local culture, food, and history. Travelers often visit for authentic Vietnamese experiences, from exploring markets and temples to trying street food and scenic excursions.",
+    "best_time_to_visit": "February to May",
+    "tags": [
+      "beach",
+      "cruise",
+      "nature"
+    ],
+    "semantic_text": "Ha Long Bay offers a mix of beach, cruise, nature attractions and is a must-visit for those seeking immersive travel experiences in Vietnam.",
+    "connections": [
+      {
+        "relation": "Connected_To",
+        "target": "city_hoi_an"
+      },
+      {
+        "relation": "Connected_To",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "city_sapa",
+    "type": "City",
+    "name": "Sapa",
+    "region": "Northern Vietnam",
+    "description": "Sapa is located in Northern Vietnam. It’s known for its mountain, trekking, ethnic experiences, combining local culture, food, and history. Travelers often visit for authentic Vietnamese experiences, from exploring markets and temples to trying street food and scenic excursions.",
+    "best_time_to_visit": "October to April",
+    "tags": [
+      "mountain",
+      "trekking",
+      "ethnic"
+    ],
+    "semantic_text": "Sapa offers a mix of mountain, trekking, ethnic attractions and is a must-visit for those seeking immersive travel experiences in Vietnam.",
+    "connections": [
+      {
+        "relation": "Connected_To",
+        "target": "city_da_nang"
+      },
+      {
+        "relation": "Connected_To",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "city_hue",
+    "type": "City",
+    "name": "Hue",
+    "region": "Central Vietnam",
+    "description": "Hue is located in Central Vietnam. It’s known for its imperial, history, architecture experiences, combining local culture, food, and history. Travelers often visit for authentic Vietnamese experiences, from exploring markets and temples to trying street food and scenic excursions.",
+    "best_time_to_visit": "October to April",
+    "tags": [
+      "imperial",
+      "history",
+      "architecture"
+    ],
+    "semantic_text": "Hue offers a mix of imperial, history, architecture attractions and is a must-visit for those seeking immersive travel experiences in Vietnam.",
+    "connections": [
+      {
+        "relation": "Connected_To",
+        "target": "city_sapa"
+      },
+      {
+        "relation": "Connected_To",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "city_hoi_an",
+    "type": "City",
+    "name": "Hoi An",
+    "region": "Central Vietnam",
+    "description": "Hoi An is located in Central Vietnam. It’s known for its lanterns, romantic, heritage experiences, combining local culture, food, and history. Travelers often visit for authentic Vietnamese experiences, from exploring markets and temples to trying street food and scenic excursions.",
+    "best_time_to_visit": "October to April",
+    "tags": [
+      "lanterns",
+      "romantic",
+      "heritage"
+    ],
+    "semantic_text": "Hoi An offers a mix of lanterns, romantic, heritage attractions and is a must-visit for those seeking immersive travel experiences in Vietnam.",
+    "connections": [
+      {
+        "relation": "Connected_To",
+        "target": "city_nha_trang"
+      },
+      {
+        "relation": "Connected_To",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "city_da_nang",
+    "type": "City",
+    "name": "Da Nang",
+    "region": "Central Vietnam",
+    "description": "Da Nang is located in Central Vietnam. It’s known for its beach, modern, adventure experiences, combining local culture, food, and history. Travelers often visit for authentic Vietnamese experiences, from exploring markets and temples to trying street food and scenic excursions.",
+    "best_time_to_visit": "Year-round",
+    "tags": [
+      "beach",
+      "modern",
+      "adventure"
+    ],
+    "semantic_text": "Da Nang offers a mix of beach, modern, adventure attractions and is a must-visit for those seeking immersive travel experiences in Vietnam.",
+    "connections": [
+      {
+        "relation": "Connected_To",
+        "target": "city_hoi_an"
+      },
+      {
+        "relation": "Connected_To",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "city_nha_trang",
+    "type": "City",
+    "name": "Nha Trang",
+    "region": "Southern Vietnam",
+    "description": "Nha Trang is located in Southern Vietnam. It’s known for its diving, resort, beach experiences, combining local culture, food, and history. Travelers often visit for authentic Vietnamese experiences, from exploring markets and temples to trying street food and scenic excursions.",
+    "best_time_to_visit": "Year-round",
+    "tags": [
+      "diving",
+      "resort",
+      "beach"
+    ],
+    "semantic_text": "Nha Trang offers a mix of diving, resort, beach attractions and is a must-visit for those seeking immersive travel experiences in Vietnam.",
+    "connections": [
+      {
+        "relation": "Connected_To",
+        "target": "city_sapa"
+      },
+      {
+        "relation": "Connected_To",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "city_da_lat",
+    "type": "City",
+    "name": "Da Lat",
+    "region": "Southern Vietnam",
+    "description": "Da Lat is located in Southern Vietnam. It’s known for its mountain, romantic, flowers experiences, combining local culture, food, and history. Travelers often visit for authentic Vietnamese experiences, from exploring markets and temples to trying street food and scenic excursions.",
+    "best_time_to_visit": "February to May",
+    "tags": [
+      "mountain",
+      "romantic",
+      "flowers"
+    ],
+    "semantic_text": "Da Lat offers a mix of mountain, romantic, flowers attractions and is a must-visit for those seeking immersive travel experiences in Vietnam.",
+    "connections": [
+      {
+        "relation": "Connected_To",
+        "target": "city_mekong"
+      },
+      {
+        "relation": "Connected_To",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "city_ho_chi_minh",
+    "type": "City",
+    "name": "Ho Chi Minh City",
+    "region": "Southern Vietnam",
+    "description": "Ho Chi Minh City is located in Southern Vietnam. It’s known for its urban, history, markets experiences, combining local culture, food, and history. Travelers often visit for authentic Vietnamese experiences, from exploring markets and temples to trying street food and scenic excursions.",
+    "best_time_to_visit": "February to May",
+    "tags": [
+      "urban",
+      "history",
+      "markets"
+    ],
+    "semantic_text": "Ho Chi Minh City offers a mix of urban, history, markets attractions and is a must-visit for those seeking immersive travel experiences in Vietnam.",
+    "connections": [
+      {
+        "relation": "Connected_To",
+        "target": "city_mekong"
+      },
+      {
+        "relation": "Connected_To",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "city_mekong",
+    "type": "City",
+    "name": "Mekong Delta",
+    "region": "Southern Vietnam",
+    "description": "Mekong Delta is located in Southern Vietnam. It’s known for its rural, river, floating_markets experiences, combining local culture, food, and history. Travelers often visit for authentic Vietnamese experiences, from exploring markets and temples to trying street food and scenic excursions.",
+    "best_time_to_visit": "October to April",
+    "tags": [
+      "rural",
+      "river",
+      "floating_markets"
+    ],
+    "semantic_text": "Mekong Delta offers a mix of rural, river, floating_markets attractions and is a must-visit for those seeking immersive travel experiences in Vietnam.",
+    "connections": [
+      {
+        "relation": "Connected_To",
+        "target": "city_ha_long"
+      },
+      {
+        "relation": "Connected_To",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_1",
+    "type": "Attraction",
+    "name": "Hanoi Attraction 1",
+    "city": "Hanoi",
+    "description": "A popular attraction in Hanoi known for its cultural and scenic beauty. Perfect for tourists who love food.",
+    "tags": [
+      "heritage"
+    ],
+    "semantic_text": "Explore this famous attraction in Hanoi, a destination loved for its culture vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "attraction_2",
+    "type": "Attraction",
+    "name": "Hanoi Attraction 2",
+    "city": "Hanoi",
+    "description": "A popular attraction in Hanoi known for its cultural and scenic beauty. Perfect for tourists who love food.",
+    "tags": [
+      "culture"
+    ],
+    "semantic_text": "Explore this famous attraction in Hanoi, a destination loved for its culture vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "attraction_3",
+    "type": "Attraction",
+    "name": "Hanoi Attraction 3",
+    "city": "Hanoi",
+    "description": "A popular attraction in Hanoi known for its cultural and scenic beauty. Perfect for tourists who love food.",
+    "tags": [
+      "food"
+    ],
+    "semantic_text": "Explore this famous attraction in Hanoi, a destination loved for its culture vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "attraction_4",
+    "type": "Attraction",
+    "name": "Hanoi Attraction 4",
+    "city": "Hanoi",
+    "description": "A popular attraction in Hanoi known for its cultural and scenic beauty. Perfect for tourists who love heritage.",
+    "tags": [
+      "food"
+    ],
+    "semantic_text": "Explore this famous attraction in Hanoi, a destination loved for its food vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "attraction_5",
+    "type": "Attraction",
+    "name": "Hanoi Attraction 5",
+    "city": "Hanoi",
+    "description": "A popular attraction in Hanoi known for its cultural and scenic beauty. Perfect for tourists who love food.",
+    "tags": [
+      "culture"
+    ],
+    "semantic_text": "Explore this famous attraction in Hanoi, a destination loved for its heritage vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "attraction_6",
+    "type": "Attraction",
+    "name": "Hanoi Attraction 6",
+    "city": "Hanoi",
+    "description": "A popular attraction in Hanoi known for its cultural and scenic beauty. Perfect for tourists who love culture.",
+    "tags": [
+      "culture"
+    ],
+    "semantic_text": "Explore this famous attraction in Hanoi, a destination loved for its food vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "attraction_7",
+    "type": "Attraction",
+    "name": "Hanoi Attraction 7",
+    "city": "Hanoi",
+    "description": "A popular attraction in Hanoi known for its cultural and scenic beauty. Perfect for tourists who love food.",
+    "tags": [
+      "food"
+    ],
+    "semantic_text": "Explore this famous attraction in Hanoi, a destination loved for its heritage vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "attraction_8",
+    "type": "Attraction",
+    "name": "Hanoi Attraction 8",
+    "city": "Hanoi",
+    "description": "A popular attraction in Hanoi known for its cultural and scenic beauty. Perfect for tourists who love food.",
+    "tags": [
+      "culture"
+    ],
+    "semantic_text": "Explore this famous attraction in Hanoi, a destination loved for its culture vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "attraction_9",
+    "type": "Attraction",
+    "name": "Hanoi Attraction 9",
+    "city": "Hanoi",
+    "description": "A popular attraction in Hanoi known for its cultural and scenic beauty. Perfect for tourists who love food.",
+    "tags": [
+      "heritage"
+    ],
+    "semantic_text": "Explore this famous attraction in Hanoi, a destination loved for its culture vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "attraction_10",
+    "type": "Attraction",
+    "name": "Hanoi Attraction 10",
+    "city": "Hanoi",
+    "description": "A popular attraction in Hanoi known for its cultural and scenic beauty. Perfect for tourists who love culture.",
+    "tags": [
+      "food"
+    ],
+    "semantic_text": "Explore this famous attraction in Hanoi, a destination loved for its culture vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "attraction_11",
+    "type": "Attraction",
+    "name": "Hanoi Attraction 11",
+    "city": "Hanoi",
+    "description": "A popular attraction in Hanoi known for its cultural and scenic beauty. Perfect for tourists who love heritage.",
+    "tags": [
+      "food"
+    ],
+    "semantic_text": "Explore this famous attraction in Hanoi, a destination loved for its heritage vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "attraction_12",
+    "type": "Attraction",
+    "name": "Hanoi Attraction 12",
+    "city": "Hanoi",
+    "description": "A popular attraction in Hanoi known for its cultural and scenic beauty. Perfect for tourists who love culture.",
+    "tags": [
+      "food"
+    ],
+    "semantic_text": "Explore this famous attraction in Hanoi, a destination loved for its culture vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "attraction_13",
+    "type": "Attraction",
+    "name": "Hanoi Attraction 13",
+    "city": "Hanoi",
+    "description": "A popular attraction in Hanoi known for its cultural and scenic beauty. Perfect for tourists who love culture.",
+    "tags": [
+      "culture"
+    ],
+    "semantic_text": "Explore this famous attraction in Hanoi, a destination loved for its culture vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "attraction_14",
+    "type": "Attraction",
+    "name": "Hanoi Attraction 14",
+    "city": "Hanoi",
+    "description": "A popular attraction in Hanoi known for its cultural and scenic beauty. Perfect for tourists who love food.",
+    "tags": [
+      "food"
+    ],
+    "semantic_text": "Explore this famous attraction in Hanoi, a destination loved for its food vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "attraction_15",
+    "type": "Attraction",
+    "name": "Hanoi Attraction 15",
+    "city": "Hanoi",
+    "description": "A popular attraction in Hanoi known for its cultural and scenic beauty. Perfect for tourists who love food.",
+    "tags": [
+      "food"
+    ],
+    "semantic_text": "Explore this famous attraction in Hanoi, a destination loved for its culture vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "hotel_16",
+    "type": "Hotel",
+    "name": "Hanoi Hotel 16",
+    "city": "Hanoi",
+    "description": "A cozy stay option in Hanoi offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "culture"
+    ],
+    "semantic_text": "Hanoi Hotel 16 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "hotel_17",
+    "type": "Hotel",
+    "name": "Hanoi Hotel 17",
+    "city": "Hanoi",
+    "description": "A cozy stay option in Hanoi offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "heritage"
+    ],
+    "semantic_text": "Hanoi Hotel 17 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "hotel_18",
+    "type": "Hotel",
+    "name": "Hanoi Hotel 18",
+    "city": "Hanoi",
+    "description": "A cozy stay option in Hanoi offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "culture"
+    ],
+    "semantic_text": "Hanoi Hotel 18 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "hotel_19",
+    "type": "Hotel",
+    "name": "Hanoi Hotel 19",
+    "city": "Hanoi",
+    "description": "A cozy stay option in Hanoi offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "heritage"
+    ],
+    "semantic_text": "Hanoi Hotel 19 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "hotel_20",
+    "type": "Hotel",
+    "name": "Hanoi Hotel 20",
+    "city": "Hanoi",
+    "description": "A cozy stay option in Hanoi offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "food"
+    ],
+    "semantic_text": "Hanoi Hotel 20 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "hotel_21",
+    "type": "Hotel",
+    "name": "Hanoi Hotel 21",
+    "city": "Hanoi",
+    "description": "A cozy stay option in Hanoi offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "heritage"
+    ],
+    "semantic_text": "Hanoi Hotel 21 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "hotel_22",
+    "type": "Hotel",
+    "name": "Hanoi Hotel 22",
+    "city": "Hanoi",
+    "description": "A cozy stay option in Hanoi offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "culture"
+    ],
+    "semantic_text": "Hanoi Hotel 22 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "hotel_23",
+    "type": "Hotel",
+    "name": "Hanoi Hotel 23",
+    "city": "Hanoi",
+    "description": "A cozy stay option in Hanoi offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "food"
+    ],
+    "semantic_text": "Hanoi Hotel 23 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "hotel_24",
+    "type": "Hotel",
+    "name": "Hanoi Hotel 24",
+    "city": "Hanoi",
+    "description": "A cozy stay option in Hanoi offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "food"
+    ],
+    "semantic_text": "Hanoi Hotel 24 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "hotel_25",
+    "type": "Hotel",
+    "name": "Hanoi Hotel 25",
+    "city": "Hanoi",
+    "description": "A cozy stay option in Hanoi offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "heritage"
+    ],
+    "semantic_text": "Hanoi Hotel 25 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "activity_26",
+    "type": "Activity",
+    "name": "Hanoi Activity 26",
+    "city": "Hanoi",
+    "description": "A unique experience in Hanoi where visitors can enjoy local markets.",
+    "tags": [
+      "experience",
+      "culture"
+    ],
+    "semantic_text": "Participate in this activity in Hanoi to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "activity_27",
+    "type": "Activity",
+    "name": "Hanoi Activity 27",
+    "city": "Hanoi",
+    "description": "A unique experience in Hanoi where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "food"
+    ],
+    "semantic_text": "Participate in this activity in Hanoi to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "activity_28",
+    "type": "Activity",
+    "name": "Hanoi Activity 28",
+    "city": "Hanoi",
+    "description": "A unique experience in Hanoi where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "food"
+    ],
+    "semantic_text": "Participate in this activity in Hanoi to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "activity_29",
+    "type": "Activity",
+    "name": "Hanoi Activity 29",
+    "city": "Hanoi",
+    "description": "A unique experience in Hanoi where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "heritage"
+    ],
+    "semantic_text": "Participate in this activity in Hanoi to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "activity_30",
+    "type": "Activity",
+    "name": "Hanoi Activity 30",
+    "city": "Hanoi",
+    "description": "A unique experience in Hanoi where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "food"
+    ],
+    "semantic_text": "Participate in this activity in Hanoi to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "activity_31",
+    "type": "Activity",
+    "name": "Hanoi Activity 31",
+    "city": "Hanoi",
+    "description": "A unique experience in Hanoi where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "culture"
+    ],
+    "semantic_text": "Participate in this activity in Hanoi to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "activity_32",
+    "type": "Activity",
+    "name": "Hanoi Activity 32",
+    "city": "Hanoi",
+    "description": "A unique experience in Hanoi where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "culture"
+    ],
+    "semantic_text": "Participate in this activity in Hanoi to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "activity_33",
+    "type": "Activity",
+    "name": "Hanoi Activity 33",
+    "city": "Hanoi",
+    "description": "A unique experience in Hanoi where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "heritage"
+    ],
+    "semantic_text": "Participate in this activity in Hanoi to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "activity_34",
+    "type": "Activity",
+    "name": "Hanoi Activity 34",
+    "city": "Hanoi",
+    "description": "A unique experience in Hanoi where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "food"
+    ],
+    "semantic_text": "Participate in this activity in Hanoi to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "activity_35",
+    "type": "Activity",
+    "name": "Hanoi Activity 35",
+    "city": "Hanoi",
+    "description": "A unique experience in Hanoi where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "heritage"
+    ],
+    "semantic_text": "Participate in this activity in Hanoi to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hanoi"
+      }
+    ]
+  },
+  {
+    "id": "attraction_36",
+    "type": "Attraction",
+    "name": "Ha Long Bay Attraction 36",
+    "city": "Ha Long Bay",
+    "description": "A popular attraction in Ha Long Bay known for its cultural and scenic beauty. Perfect for tourists who love cruise.",
+    "tags": [
+      "beach"
+    ],
+    "semantic_text": "Explore this famous attraction in Ha Long Bay, a destination loved for its nature vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "attraction_37",
+    "type": "Attraction",
+    "name": "Ha Long Bay Attraction 37",
+    "city": "Ha Long Bay",
+    "description": "A popular attraction in Ha Long Bay known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "nature"
+    ],
+    "semantic_text": "Explore this famous attraction in Ha Long Bay, a destination loved for its nature vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "attraction_38",
+    "type": "Attraction",
+    "name": "Ha Long Bay Attraction 38",
+    "city": "Ha Long Bay",
+    "description": "A popular attraction in Ha Long Bay known for its cultural and scenic beauty. Perfect for tourists who love cruise.",
+    "tags": [
+      "nature"
+    ],
+    "semantic_text": "Explore this famous attraction in Ha Long Bay, a destination loved for its nature vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "attraction_39",
+    "type": "Attraction",
+    "name": "Ha Long Bay Attraction 39",
+    "city": "Ha Long Bay",
+    "description": "A popular attraction in Ha Long Bay known for its cultural and scenic beauty. Perfect for tourists who love cruise.",
+    "tags": [
+      "beach"
+    ],
+    "semantic_text": "Explore this famous attraction in Ha Long Bay, a destination loved for its nature vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "attraction_40",
+    "type": "Attraction",
+    "name": "Ha Long Bay Attraction 40",
+    "city": "Ha Long Bay",
+    "description": "A popular attraction in Ha Long Bay known for its cultural and scenic beauty. Perfect for tourists who love cruise.",
+    "tags": [
+      "beach"
+    ],
+    "semantic_text": "Explore this famous attraction in Ha Long Bay, a destination loved for its nature vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "attraction_41",
+    "type": "Attraction",
+    "name": "Ha Long Bay Attraction 41",
+    "city": "Ha Long Bay",
+    "description": "A popular attraction in Ha Long Bay known for its cultural and scenic beauty. Perfect for tourists who love cruise.",
+    "tags": [
+      "nature"
+    ],
+    "semantic_text": "Explore this famous attraction in Ha Long Bay, a destination loved for its nature vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "attraction_42",
+    "type": "Attraction",
+    "name": "Ha Long Bay Attraction 42",
+    "city": "Ha Long Bay",
+    "description": "A popular attraction in Ha Long Bay known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "nature"
+    ],
+    "semantic_text": "Explore this famous attraction in Ha Long Bay, a destination loved for its nature vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "attraction_43",
+    "type": "Attraction",
+    "name": "Ha Long Bay Attraction 43",
+    "city": "Ha Long Bay",
+    "description": "A popular attraction in Ha Long Bay known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "cruise"
+    ],
+    "semantic_text": "Explore this famous attraction in Ha Long Bay, a destination loved for its beach vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "attraction_44",
+    "type": "Attraction",
+    "name": "Ha Long Bay Attraction 44",
+    "city": "Ha Long Bay",
+    "description": "A popular attraction in Ha Long Bay known for its cultural and scenic beauty. Perfect for tourists who love nature.",
+    "tags": [
+      "nature"
+    ],
+    "semantic_text": "Explore this famous attraction in Ha Long Bay, a destination loved for its nature vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "attraction_45",
+    "type": "Attraction",
+    "name": "Ha Long Bay Attraction 45",
+    "city": "Ha Long Bay",
+    "description": "A popular attraction in Ha Long Bay known for its cultural and scenic beauty. Perfect for tourists who love nature.",
+    "tags": [
+      "nature"
+    ],
+    "semantic_text": "Explore this famous attraction in Ha Long Bay, a destination loved for its nature vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "attraction_46",
+    "type": "Attraction",
+    "name": "Ha Long Bay Attraction 46",
+    "city": "Ha Long Bay",
+    "description": "A popular attraction in Ha Long Bay known for its cultural and scenic beauty. Perfect for tourists who love nature.",
+    "tags": [
+      "beach"
+    ],
+    "semantic_text": "Explore this famous attraction in Ha Long Bay, a destination loved for its cruise vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "attraction_47",
+    "type": "Attraction",
+    "name": "Ha Long Bay Attraction 47",
+    "city": "Ha Long Bay",
+    "description": "A popular attraction in Ha Long Bay known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "nature"
+    ],
+    "semantic_text": "Explore this famous attraction in Ha Long Bay, a destination loved for its beach vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "attraction_48",
+    "type": "Attraction",
+    "name": "Ha Long Bay Attraction 48",
+    "city": "Ha Long Bay",
+    "description": "A popular attraction in Ha Long Bay known for its cultural and scenic beauty. Perfect for tourists who love nature.",
+    "tags": [
+      "cruise"
+    ],
+    "semantic_text": "Explore this famous attraction in Ha Long Bay, a destination loved for its nature vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "attraction_49",
+    "type": "Attraction",
+    "name": "Ha Long Bay Attraction 49",
+    "city": "Ha Long Bay",
+    "description": "A popular attraction in Ha Long Bay known for its cultural and scenic beauty. Perfect for tourists who love cruise.",
+    "tags": [
+      "nature"
+    ],
+    "semantic_text": "Explore this famous attraction in Ha Long Bay, a destination loved for its nature vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "attraction_50",
+    "type": "Attraction",
+    "name": "Ha Long Bay Attraction 50",
+    "city": "Ha Long Bay",
+    "description": "A popular attraction in Ha Long Bay known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "beach"
+    ],
+    "semantic_text": "Explore this famous attraction in Ha Long Bay, a destination loved for its cruise vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "hotel_51",
+    "type": "Hotel",
+    "name": "Ha Long Bay Hotel 51",
+    "city": "Ha Long Bay",
+    "description": "A cozy stay option in Ha Long Bay offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "beach"
+    ],
+    "semantic_text": "Ha Long Bay Hotel 51 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "hotel_52",
+    "type": "Hotel",
+    "name": "Ha Long Bay Hotel 52",
+    "city": "Ha Long Bay",
+    "description": "A cozy stay option in Ha Long Bay offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "cruise"
+    ],
+    "semantic_text": "Ha Long Bay Hotel 52 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "hotel_53",
+    "type": "Hotel",
+    "name": "Ha Long Bay Hotel 53",
+    "city": "Ha Long Bay",
+    "description": "A cozy stay option in Ha Long Bay offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "cruise"
+    ],
+    "semantic_text": "Ha Long Bay Hotel 53 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "hotel_54",
+    "type": "Hotel",
+    "name": "Ha Long Bay Hotel 54",
+    "city": "Ha Long Bay",
+    "description": "A cozy stay option in Ha Long Bay offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "nature"
+    ],
+    "semantic_text": "Ha Long Bay Hotel 54 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "hotel_55",
+    "type": "Hotel",
+    "name": "Ha Long Bay Hotel 55",
+    "city": "Ha Long Bay",
+    "description": "A cozy stay option in Ha Long Bay offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "cruise"
+    ],
+    "semantic_text": "Ha Long Bay Hotel 55 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "hotel_56",
+    "type": "Hotel",
+    "name": "Ha Long Bay Hotel 56",
+    "city": "Ha Long Bay",
+    "description": "A cozy stay option in Ha Long Bay offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "cruise"
+    ],
+    "semantic_text": "Ha Long Bay Hotel 56 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "hotel_57",
+    "type": "Hotel",
+    "name": "Ha Long Bay Hotel 57",
+    "city": "Ha Long Bay",
+    "description": "A cozy stay option in Ha Long Bay offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "cruise"
+    ],
+    "semantic_text": "Ha Long Bay Hotel 57 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "hotel_58",
+    "type": "Hotel",
+    "name": "Ha Long Bay Hotel 58",
+    "city": "Ha Long Bay",
+    "description": "A cozy stay option in Ha Long Bay offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "nature"
+    ],
+    "semantic_text": "Ha Long Bay Hotel 58 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "hotel_59",
+    "type": "Hotel",
+    "name": "Ha Long Bay Hotel 59",
+    "city": "Ha Long Bay",
+    "description": "A cozy stay option in Ha Long Bay offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "cruise"
+    ],
+    "semantic_text": "Ha Long Bay Hotel 59 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "hotel_60",
+    "type": "Hotel",
+    "name": "Ha Long Bay Hotel 60",
+    "city": "Ha Long Bay",
+    "description": "A cozy stay option in Ha Long Bay offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "cruise"
+    ],
+    "semantic_text": "Ha Long Bay Hotel 60 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "activity_61",
+    "type": "Activity",
+    "name": "Ha Long Bay Activity 61",
+    "city": "Ha Long Bay",
+    "description": "A unique experience in Ha Long Bay where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "nature"
+    ],
+    "semantic_text": "Participate in this activity in Ha Long Bay to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "activity_62",
+    "type": "Activity",
+    "name": "Ha Long Bay Activity 62",
+    "city": "Ha Long Bay",
+    "description": "A unique experience in Ha Long Bay where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "cruise"
+    ],
+    "semantic_text": "Participate in this activity in Ha Long Bay to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "activity_63",
+    "type": "Activity",
+    "name": "Ha Long Bay Activity 63",
+    "city": "Ha Long Bay",
+    "description": "A unique experience in Ha Long Bay where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "beach"
+    ],
+    "semantic_text": "Participate in this activity in Ha Long Bay to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "activity_64",
+    "type": "Activity",
+    "name": "Ha Long Bay Activity 64",
+    "city": "Ha Long Bay",
+    "description": "A unique experience in Ha Long Bay where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "cruise"
+    ],
+    "semantic_text": "Participate in this activity in Ha Long Bay to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "activity_65",
+    "type": "Activity",
+    "name": "Ha Long Bay Activity 65",
+    "city": "Ha Long Bay",
+    "description": "A unique experience in Ha Long Bay where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "beach"
+    ],
+    "semantic_text": "Participate in this activity in Ha Long Bay to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "activity_66",
+    "type": "Activity",
+    "name": "Ha Long Bay Activity 66",
+    "city": "Ha Long Bay",
+    "description": "A unique experience in Ha Long Bay where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "nature"
+    ],
+    "semantic_text": "Participate in this activity in Ha Long Bay to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "activity_67",
+    "type": "Activity",
+    "name": "Ha Long Bay Activity 67",
+    "city": "Ha Long Bay",
+    "description": "A unique experience in Ha Long Bay where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "beach"
+    ],
+    "semantic_text": "Participate in this activity in Ha Long Bay to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "activity_68",
+    "type": "Activity",
+    "name": "Ha Long Bay Activity 68",
+    "city": "Ha Long Bay",
+    "description": "A unique experience in Ha Long Bay where visitors can enjoy local markets.",
+    "tags": [
+      "experience",
+      "beach"
+    ],
+    "semantic_text": "Participate in this activity in Ha Long Bay to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "activity_69",
+    "type": "Activity",
+    "name": "Ha Long Bay Activity 69",
+    "city": "Ha Long Bay",
+    "description": "A unique experience in Ha Long Bay where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "nature"
+    ],
+    "semantic_text": "Participate in this activity in Ha Long Bay to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "activity_70",
+    "type": "Activity",
+    "name": "Ha Long Bay Activity 70",
+    "city": "Ha Long Bay",
+    "description": "A unique experience in Ha Long Bay where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "cruise"
+    ],
+    "semantic_text": "Participate in this activity in Ha Long Bay to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ha_long"
+      }
+    ]
+  },
+  {
+    "id": "attraction_71",
+    "type": "Attraction",
+    "name": "Sapa Attraction 71",
+    "city": "Sapa",
+    "description": "A popular attraction in Sapa known for its cultural and scenic beauty. Perfect for tourists who love trekking.",
+    "tags": [
+      "ethnic"
+    ],
+    "semantic_text": "Explore this famous attraction in Sapa, a destination loved for its ethnic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "attraction_72",
+    "type": "Attraction",
+    "name": "Sapa Attraction 72",
+    "city": "Sapa",
+    "description": "A popular attraction in Sapa known for its cultural and scenic beauty. Perfect for tourists who love ethnic.",
+    "tags": [
+      "ethnic"
+    ],
+    "semantic_text": "Explore this famous attraction in Sapa, a destination loved for its trekking vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "attraction_73",
+    "type": "Attraction",
+    "name": "Sapa Attraction 73",
+    "city": "Sapa",
+    "description": "A popular attraction in Sapa known for its cultural and scenic beauty. Perfect for tourists who love mountain.",
+    "tags": [
+      "ethnic"
+    ],
+    "semantic_text": "Explore this famous attraction in Sapa, a destination loved for its ethnic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "attraction_74",
+    "type": "Attraction",
+    "name": "Sapa Attraction 74",
+    "city": "Sapa",
+    "description": "A popular attraction in Sapa known for its cultural and scenic beauty. Perfect for tourists who love trekking.",
+    "tags": [
+      "ethnic"
+    ],
+    "semantic_text": "Explore this famous attraction in Sapa, a destination loved for its trekking vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "attraction_75",
+    "type": "Attraction",
+    "name": "Sapa Attraction 75",
+    "city": "Sapa",
+    "description": "A popular attraction in Sapa known for its cultural and scenic beauty. Perfect for tourists who love trekking.",
+    "tags": [
+      "mountain"
+    ],
+    "semantic_text": "Explore this famous attraction in Sapa, a destination loved for its ethnic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "attraction_76",
+    "type": "Attraction",
+    "name": "Sapa Attraction 76",
+    "city": "Sapa",
+    "description": "A popular attraction in Sapa known for its cultural and scenic beauty. Perfect for tourists who love trekking.",
+    "tags": [
+      "mountain"
+    ],
+    "semantic_text": "Explore this famous attraction in Sapa, a destination loved for its ethnic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "attraction_77",
+    "type": "Attraction",
+    "name": "Sapa Attraction 77",
+    "city": "Sapa",
+    "description": "A popular attraction in Sapa known for its cultural and scenic beauty. Perfect for tourists who love mountain.",
+    "tags": [
+      "trekking"
+    ],
+    "semantic_text": "Explore this famous attraction in Sapa, a destination loved for its mountain vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "attraction_78",
+    "type": "Attraction",
+    "name": "Sapa Attraction 78",
+    "city": "Sapa",
+    "description": "A popular attraction in Sapa known for its cultural and scenic beauty. Perfect for tourists who love mountain.",
+    "tags": [
+      "ethnic"
+    ],
+    "semantic_text": "Explore this famous attraction in Sapa, a destination loved for its trekking vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "attraction_79",
+    "type": "Attraction",
+    "name": "Sapa Attraction 79",
+    "city": "Sapa",
+    "description": "A popular attraction in Sapa known for its cultural and scenic beauty. Perfect for tourists who love trekking.",
+    "tags": [
+      "ethnic"
+    ],
+    "semantic_text": "Explore this famous attraction in Sapa, a destination loved for its mountain vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "attraction_80",
+    "type": "Attraction",
+    "name": "Sapa Attraction 80",
+    "city": "Sapa",
+    "description": "A popular attraction in Sapa known for its cultural and scenic beauty. Perfect for tourists who love mountain.",
+    "tags": [
+      "mountain"
+    ],
+    "semantic_text": "Explore this famous attraction in Sapa, a destination loved for its ethnic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "attraction_81",
+    "type": "Attraction",
+    "name": "Sapa Attraction 81",
+    "city": "Sapa",
+    "description": "A popular attraction in Sapa known for its cultural and scenic beauty. Perfect for tourists who love trekking.",
+    "tags": [
+      "trekking"
+    ],
+    "semantic_text": "Explore this famous attraction in Sapa, a destination loved for its ethnic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "attraction_82",
+    "type": "Attraction",
+    "name": "Sapa Attraction 82",
+    "city": "Sapa",
+    "description": "A popular attraction in Sapa known for its cultural and scenic beauty. Perfect for tourists who love mountain.",
+    "tags": [
+      "ethnic"
+    ],
+    "semantic_text": "Explore this famous attraction in Sapa, a destination loved for its trekking vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "attraction_83",
+    "type": "Attraction",
+    "name": "Sapa Attraction 83",
+    "city": "Sapa",
+    "description": "A popular attraction in Sapa known for its cultural and scenic beauty. Perfect for tourists who love mountain.",
+    "tags": [
+      "trekking"
+    ],
+    "semantic_text": "Explore this famous attraction in Sapa, a destination loved for its mountain vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "attraction_84",
+    "type": "Attraction",
+    "name": "Sapa Attraction 84",
+    "city": "Sapa",
+    "description": "A popular attraction in Sapa known for its cultural and scenic beauty. Perfect for tourists who love mountain.",
+    "tags": [
+      "mountain"
+    ],
+    "semantic_text": "Explore this famous attraction in Sapa, a destination loved for its trekking vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "attraction_85",
+    "type": "Attraction",
+    "name": "Sapa Attraction 85",
+    "city": "Sapa",
+    "description": "A popular attraction in Sapa known for its cultural and scenic beauty. Perfect for tourists who love mountain.",
+    "tags": [
+      "mountain"
+    ],
+    "semantic_text": "Explore this famous attraction in Sapa, a destination loved for its trekking vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "hotel_86",
+    "type": "Hotel",
+    "name": "Sapa Hotel 86",
+    "city": "Sapa",
+    "description": "A cozy stay option in Sapa offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "mountain"
+    ],
+    "semantic_text": "Sapa Hotel 86 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "hotel_87",
+    "type": "Hotel",
+    "name": "Sapa Hotel 87",
+    "city": "Sapa",
+    "description": "A cozy stay option in Sapa offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "ethnic"
+    ],
+    "semantic_text": "Sapa Hotel 87 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "hotel_88",
+    "type": "Hotel",
+    "name": "Sapa Hotel 88",
+    "city": "Sapa",
+    "description": "A cozy stay option in Sapa offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "mountain"
+    ],
+    "semantic_text": "Sapa Hotel 88 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "hotel_89",
+    "type": "Hotel",
+    "name": "Sapa Hotel 89",
+    "city": "Sapa",
+    "description": "A cozy stay option in Sapa offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "mountain"
+    ],
+    "semantic_text": "Sapa Hotel 89 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "hotel_90",
+    "type": "Hotel",
+    "name": "Sapa Hotel 90",
+    "city": "Sapa",
+    "description": "A cozy stay option in Sapa offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "mountain"
+    ],
+    "semantic_text": "Sapa Hotel 90 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "hotel_91",
+    "type": "Hotel",
+    "name": "Sapa Hotel 91",
+    "city": "Sapa",
+    "description": "A cozy stay option in Sapa offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "mountain"
+    ],
+    "semantic_text": "Sapa Hotel 91 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "hotel_92",
+    "type": "Hotel",
+    "name": "Sapa Hotel 92",
+    "city": "Sapa",
+    "description": "A cozy stay option in Sapa offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "mountain"
+    ],
+    "semantic_text": "Sapa Hotel 92 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "hotel_93",
+    "type": "Hotel",
+    "name": "Sapa Hotel 93",
+    "city": "Sapa",
+    "description": "A cozy stay option in Sapa offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "trekking"
+    ],
+    "semantic_text": "Sapa Hotel 93 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "hotel_94",
+    "type": "Hotel",
+    "name": "Sapa Hotel 94",
+    "city": "Sapa",
+    "description": "A cozy stay option in Sapa offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "ethnic"
+    ],
+    "semantic_text": "Sapa Hotel 94 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "hotel_95",
+    "type": "Hotel",
+    "name": "Sapa Hotel 95",
+    "city": "Sapa",
+    "description": "A cozy stay option in Sapa offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "ethnic"
+    ],
+    "semantic_text": "Sapa Hotel 95 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "activity_96",
+    "type": "Activity",
+    "name": "Sapa Activity 96",
+    "city": "Sapa",
+    "description": "A unique experience in Sapa where visitors can enjoy local markets.",
+    "tags": [
+      "experience",
+      "mountain"
+    ],
+    "semantic_text": "Participate in this activity in Sapa to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "activity_97",
+    "type": "Activity",
+    "name": "Sapa Activity 97",
+    "city": "Sapa",
+    "description": "A unique experience in Sapa where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "mountain"
+    ],
+    "semantic_text": "Participate in this activity in Sapa to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "activity_98",
+    "type": "Activity",
+    "name": "Sapa Activity 98",
+    "city": "Sapa",
+    "description": "A unique experience in Sapa where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "trekking"
+    ],
+    "semantic_text": "Participate in this activity in Sapa to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "activity_99",
+    "type": "Activity",
+    "name": "Sapa Activity 99",
+    "city": "Sapa",
+    "description": "A unique experience in Sapa where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "ethnic"
+    ],
+    "semantic_text": "Participate in this activity in Sapa to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "activity_100",
+    "type": "Activity",
+    "name": "Sapa Activity 100",
+    "city": "Sapa",
+    "description": "A unique experience in Sapa where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "trekking"
+    ],
+    "semantic_text": "Participate in this activity in Sapa to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "activity_101",
+    "type": "Activity",
+    "name": "Sapa Activity 101",
+    "city": "Sapa",
+    "description": "A unique experience in Sapa where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "trekking"
+    ],
+    "semantic_text": "Participate in this activity in Sapa to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "activity_102",
+    "type": "Activity",
+    "name": "Sapa Activity 102",
+    "city": "Sapa",
+    "description": "A unique experience in Sapa where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "mountain"
+    ],
+    "semantic_text": "Participate in this activity in Sapa to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "activity_103",
+    "type": "Activity",
+    "name": "Sapa Activity 103",
+    "city": "Sapa",
+    "description": "A unique experience in Sapa where visitors can enjoy local markets.",
+    "tags": [
+      "experience",
+      "mountain"
+    ],
+    "semantic_text": "Participate in this activity in Sapa to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "activity_104",
+    "type": "Activity",
+    "name": "Sapa Activity 104",
+    "city": "Sapa",
+    "description": "A unique experience in Sapa where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "trekking"
+    ],
+    "semantic_text": "Participate in this activity in Sapa to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "activity_105",
+    "type": "Activity",
+    "name": "Sapa Activity 105",
+    "city": "Sapa",
+    "description": "A unique experience in Sapa where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "mountain"
+    ],
+    "semantic_text": "Participate in this activity in Sapa to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_sapa"
+      }
+    ]
+  },
+  {
+    "id": "attraction_106",
+    "type": "Attraction",
+    "name": "Hue Attraction 106",
+    "city": "Hue",
+    "description": "A popular attraction in Hue known for its cultural and scenic beauty. Perfect for tourists who love history.",
+    "tags": [
+      "history"
+    ],
+    "semantic_text": "Explore this famous attraction in Hue, a destination loved for its architecture vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "attraction_107",
+    "type": "Attraction",
+    "name": "Hue Attraction 107",
+    "city": "Hue",
+    "description": "A popular attraction in Hue known for its cultural and scenic beauty. Perfect for tourists who love history.",
+    "tags": [
+      "history"
+    ],
+    "semantic_text": "Explore this famous attraction in Hue, a destination loved for its imperial vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "attraction_108",
+    "type": "Attraction",
+    "name": "Hue Attraction 108",
+    "city": "Hue",
+    "description": "A popular attraction in Hue known for its cultural and scenic beauty. Perfect for tourists who love architecture.",
+    "tags": [
+      "imperial"
+    ],
+    "semantic_text": "Explore this famous attraction in Hue, a destination loved for its architecture vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "attraction_109",
+    "type": "Attraction",
+    "name": "Hue Attraction 109",
+    "city": "Hue",
+    "description": "A popular attraction in Hue known for its cultural and scenic beauty. Perfect for tourists who love history.",
+    "tags": [
+      "architecture"
+    ],
+    "semantic_text": "Explore this famous attraction in Hue, a destination loved for its imperial vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "attraction_110",
+    "type": "Attraction",
+    "name": "Hue Attraction 110",
+    "city": "Hue",
+    "description": "A popular attraction in Hue known for its cultural and scenic beauty. Perfect for tourists who love history.",
+    "tags": [
+      "history"
+    ],
+    "semantic_text": "Explore this famous attraction in Hue, a destination loved for its imperial vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "attraction_111",
+    "type": "Attraction",
+    "name": "Hue Attraction 111",
+    "city": "Hue",
+    "description": "A popular attraction in Hue known for its cultural and scenic beauty. Perfect for tourists who love architecture.",
+    "tags": [
+      "history"
+    ],
+    "semantic_text": "Explore this famous attraction in Hue, a destination loved for its imperial vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "attraction_112",
+    "type": "Attraction",
+    "name": "Hue Attraction 112",
+    "city": "Hue",
+    "description": "A popular attraction in Hue known for its cultural and scenic beauty. Perfect for tourists who love architecture.",
+    "tags": [
+      "architecture"
+    ],
+    "semantic_text": "Explore this famous attraction in Hue, a destination loved for its history vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "attraction_113",
+    "type": "Attraction",
+    "name": "Hue Attraction 113",
+    "city": "Hue",
+    "description": "A popular attraction in Hue known for its cultural and scenic beauty. Perfect for tourists who love history.",
+    "tags": [
+      "architecture"
+    ],
+    "semantic_text": "Explore this famous attraction in Hue, a destination loved for its imperial vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "attraction_114",
+    "type": "Attraction",
+    "name": "Hue Attraction 114",
+    "city": "Hue",
+    "description": "A popular attraction in Hue known for its cultural and scenic beauty. Perfect for tourists who love imperial.",
+    "tags": [
+      "architecture"
+    ],
+    "semantic_text": "Explore this famous attraction in Hue, a destination loved for its architecture vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "attraction_115",
+    "type": "Attraction",
+    "name": "Hue Attraction 115",
+    "city": "Hue",
+    "description": "A popular attraction in Hue known for its cultural and scenic beauty. Perfect for tourists who love history.",
+    "tags": [
+      "imperial"
+    ],
+    "semantic_text": "Explore this famous attraction in Hue, a destination loved for its history vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "attraction_116",
+    "type": "Attraction",
+    "name": "Hue Attraction 116",
+    "city": "Hue",
+    "description": "A popular attraction in Hue known for its cultural and scenic beauty. Perfect for tourists who love architecture.",
+    "tags": [
+      "architecture"
+    ],
+    "semantic_text": "Explore this famous attraction in Hue, a destination loved for its imperial vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "attraction_117",
+    "type": "Attraction",
+    "name": "Hue Attraction 117",
+    "city": "Hue",
+    "description": "A popular attraction in Hue known for its cultural and scenic beauty. Perfect for tourists who love imperial.",
+    "tags": [
+      "architecture"
+    ],
+    "semantic_text": "Explore this famous attraction in Hue, a destination loved for its imperial vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "attraction_118",
+    "type": "Attraction",
+    "name": "Hue Attraction 118",
+    "city": "Hue",
+    "description": "A popular attraction in Hue known for its cultural and scenic beauty. Perfect for tourists who love architecture.",
+    "tags": [
+      "imperial"
+    ],
+    "semantic_text": "Explore this famous attraction in Hue, a destination loved for its history vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "attraction_119",
+    "type": "Attraction",
+    "name": "Hue Attraction 119",
+    "city": "Hue",
+    "description": "A popular attraction in Hue known for its cultural and scenic beauty. Perfect for tourists who love architecture.",
+    "tags": [
+      "imperial"
+    ],
+    "semantic_text": "Explore this famous attraction in Hue, a destination loved for its imperial vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "attraction_120",
+    "type": "Attraction",
+    "name": "Hue Attraction 120",
+    "city": "Hue",
+    "description": "A popular attraction in Hue known for its cultural and scenic beauty. Perfect for tourists who love imperial.",
+    "tags": [
+      "imperial"
+    ],
+    "semantic_text": "Explore this famous attraction in Hue, a destination loved for its architecture vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "hotel_121",
+    "type": "Hotel",
+    "name": "Hue Hotel 121",
+    "city": "Hue",
+    "description": "A cozy stay option in Hue offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "imperial"
+    ],
+    "semantic_text": "Hue Hotel 121 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "hotel_122",
+    "type": "Hotel",
+    "name": "Hue Hotel 122",
+    "city": "Hue",
+    "description": "A cozy stay option in Hue offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "imperial"
+    ],
+    "semantic_text": "Hue Hotel 122 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "hotel_123",
+    "type": "Hotel",
+    "name": "Hue Hotel 123",
+    "city": "Hue",
+    "description": "A cozy stay option in Hue offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "imperial"
+    ],
+    "semantic_text": "Hue Hotel 123 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "hotel_124",
+    "type": "Hotel",
+    "name": "Hue Hotel 124",
+    "city": "Hue",
+    "description": "A cozy stay option in Hue offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "history"
+    ],
+    "semantic_text": "Hue Hotel 124 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "hotel_125",
+    "type": "Hotel",
+    "name": "Hue Hotel 125",
+    "city": "Hue",
+    "description": "A cozy stay option in Hue offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "architecture"
+    ],
+    "semantic_text": "Hue Hotel 125 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "hotel_126",
+    "type": "Hotel",
+    "name": "Hue Hotel 126",
+    "city": "Hue",
+    "description": "A cozy stay option in Hue offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "architecture"
+    ],
+    "semantic_text": "Hue Hotel 126 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "hotel_127",
+    "type": "Hotel",
+    "name": "Hue Hotel 127",
+    "city": "Hue",
+    "description": "A cozy stay option in Hue offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "imperial"
+    ],
+    "semantic_text": "Hue Hotel 127 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "hotel_128",
+    "type": "Hotel",
+    "name": "Hue Hotel 128",
+    "city": "Hue",
+    "description": "A cozy stay option in Hue offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "history"
+    ],
+    "semantic_text": "Hue Hotel 128 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "hotel_129",
+    "type": "Hotel",
+    "name": "Hue Hotel 129",
+    "city": "Hue",
+    "description": "A cozy stay option in Hue offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "history"
+    ],
+    "semantic_text": "Hue Hotel 129 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "hotel_130",
+    "type": "Hotel",
+    "name": "Hue Hotel 130",
+    "city": "Hue",
+    "description": "A cozy stay option in Hue offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "imperial"
+    ],
+    "semantic_text": "Hue Hotel 130 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "activity_131",
+    "type": "Activity",
+    "name": "Hue Activity 131",
+    "city": "Hue",
+    "description": "A unique experience in Hue where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "history"
+    ],
+    "semantic_text": "Participate in this activity in Hue to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "activity_132",
+    "type": "Activity",
+    "name": "Hue Activity 132",
+    "city": "Hue",
+    "description": "A unique experience in Hue where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "imperial"
+    ],
+    "semantic_text": "Participate in this activity in Hue to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "activity_133",
+    "type": "Activity",
+    "name": "Hue Activity 133",
+    "city": "Hue",
+    "description": "A unique experience in Hue where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "architecture"
+    ],
+    "semantic_text": "Participate in this activity in Hue to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "activity_134",
+    "type": "Activity",
+    "name": "Hue Activity 134",
+    "city": "Hue",
+    "description": "A unique experience in Hue where visitors can enjoy local markets.",
+    "tags": [
+      "experience",
+      "imperial"
+    ],
+    "semantic_text": "Participate in this activity in Hue to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "activity_135",
+    "type": "Activity",
+    "name": "Hue Activity 135",
+    "city": "Hue",
+    "description": "A unique experience in Hue where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "imperial"
+    ],
+    "semantic_text": "Participate in this activity in Hue to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "activity_136",
+    "type": "Activity",
+    "name": "Hue Activity 136",
+    "city": "Hue",
+    "description": "A unique experience in Hue where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "imperial"
+    ],
+    "semantic_text": "Participate in this activity in Hue to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "activity_137",
+    "type": "Activity",
+    "name": "Hue Activity 137",
+    "city": "Hue",
+    "description": "A unique experience in Hue where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "imperial"
+    ],
+    "semantic_text": "Participate in this activity in Hue to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "activity_138",
+    "type": "Activity",
+    "name": "Hue Activity 138",
+    "city": "Hue",
+    "description": "A unique experience in Hue where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "architecture"
+    ],
+    "semantic_text": "Participate in this activity in Hue to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "activity_139",
+    "type": "Activity",
+    "name": "Hue Activity 139",
+    "city": "Hue",
+    "description": "A unique experience in Hue where visitors can enjoy local markets.",
+    "tags": [
+      "experience",
+      "history"
+    ],
+    "semantic_text": "Participate in this activity in Hue to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "activity_140",
+    "type": "Activity",
+    "name": "Hue Activity 140",
+    "city": "Hue",
+    "description": "A unique experience in Hue where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "history"
+    ],
+    "semantic_text": "Participate in this activity in Hue to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hue"
+      }
+    ]
+  },
+  {
+    "id": "attraction_141",
+    "type": "Attraction",
+    "name": "Hoi An Attraction 141",
+    "city": "Hoi An",
+    "description": "A popular attraction in Hoi An known for its cultural and scenic beauty. Perfect for tourists who love romantic.",
+    "tags": [
+      "lanterns"
+    ],
+    "semantic_text": "Explore this famous attraction in Hoi An, a destination loved for its heritage vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "attraction_142",
+    "type": "Attraction",
+    "name": "Hoi An Attraction 142",
+    "city": "Hoi An",
+    "description": "A popular attraction in Hoi An known for its cultural and scenic beauty. Perfect for tourists who love heritage.",
+    "tags": [
+      "lanterns"
+    ],
+    "semantic_text": "Explore this famous attraction in Hoi An, a destination loved for its lanterns vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "attraction_143",
+    "type": "Attraction",
+    "name": "Hoi An Attraction 143",
+    "city": "Hoi An",
+    "description": "A popular attraction in Hoi An known for its cultural and scenic beauty. Perfect for tourists who love heritage.",
+    "tags": [
+      "lanterns"
+    ],
+    "semantic_text": "Explore this famous attraction in Hoi An, a destination loved for its romantic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "attraction_144",
+    "type": "Attraction",
+    "name": "Hoi An Attraction 144",
+    "city": "Hoi An",
+    "description": "A popular attraction in Hoi An known for its cultural and scenic beauty. Perfect for tourists who love heritage.",
+    "tags": [
+      "romantic"
+    ],
+    "semantic_text": "Explore this famous attraction in Hoi An, a destination loved for its romantic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "attraction_145",
+    "type": "Attraction",
+    "name": "Hoi An Attraction 145",
+    "city": "Hoi An",
+    "description": "A popular attraction in Hoi An known for its cultural and scenic beauty. Perfect for tourists who love lanterns.",
+    "tags": [
+      "romantic"
+    ],
+    "semantic_text": "Explore this famous attraction in Hoi An, a destination loved for its lanterns vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "attraction_146",
+    "type": "Attraction",
+    "name": "Hoi An Attraction 146",
+    "city": "Hoi An",
+    "description": "A popular attraction in Hoi An known for its cultural and scenic beauty. Perfect for tourists who love heritage.",
+    "tags": [
+      "heritage"
+    ],
+    "semantic_text": "Explore this famous attraction in Hoi An, a destination loved for its lanterns vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "attraction_147",
+    "type": "Attraction",
+    "name": "Hoi An Attraction 147",
+    "city": "Hoi An",
+    "description": "A popular attraction in Hoi An known for its cultural and scenic beauty. Perfect for tourists who love lanterns.",
+    "tags": [
+      "heritage"
+    ],
+    "semantic_text": "Explore this famous attraction in Hoi An, a destination loved for its lanterns vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "attraction_148",
+    "type": "Attraction",
+    "name": "Hoi An Attraction 148",
+    "city": "Hoi An",
+    "description": "A popular attraction in Hoi An known for its cultural and scenic beauty. Perfect for tourists who love romantic.",
+    "tags": [
+      "lanterns"
+    ],
+    "semantic_text": "Explore this famous attraction in Hoi An, a destination loved for its lanterns vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "attraction_149",
+    "type": "Attraction",
+    "name": "Hoi An Attraction 149",
+    "city": "Hoi An",
+    "description": "A popular attraction in Hoi An known for its cultural and scenic beauty. Perfect for tourists who love lanterns.",
+    "tags": [
+      "romantic"
+    ],
+    "semantic_text": "Explore this famous attraction in Hoi An, a destination loved for its lanterns vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "attraction_150",
+    "type": "Attraction",
+    "name": "Hoi An Attraction 150",
+    "city": "Hoi An",
+    "description": "A popular attraction in Hoi An known for its cultural and scenic beauty. Perfect for tourists who love romantic.",
+    "tags": [
+      "romantic"
+    ],
+    "semantic_text": "Explore this famous attraction in Hoi An, a destination loved for its romantic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "attraction_151",
+    "type": "Attraction",
+    "name": "Hoi An Attraction 151",
+    "city": "Hoi An",
+    "description": "A popular attraction in Hoi An known for its cultural and scenic beauty. Perfect for tourists who love lanterns.",
+    "tags": [
+      "lanterns"
+    ],
+    "semantic_text": "Explore this famous attraction in Hoi An, a destination loved for its heritage vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "attraction_152",
+    "type": "Attraction",
+    "name": "Hoi An Attraction 152",
+    "city": "Hoi An",
+    "description": "A popular attraction in Hoi An known for its cultural and scenic beauty. Perfect for tourists who love heritage.",
+    "tags": [
+      "heritage"
+    ],
+    "semantic_text": "Explore this famous attraction in Hoi An, a destination loved for its romantic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "attraction_153",
+    "type": "Attraction",
+    "name": "Hoi An Attraction 153",
+    "city": "Hoi An",
+    "description": "A popular attraction in Hoi An known for its cultural and scenic beauty. Perfect for tourists who love heritage.",
+    "tags": [
+      "lanterns"
+    ],
+    "semantic_text": "Explore this famous attraction in Hoi An, a destination loved for its heritage vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "attraction_154",
+    "type": "Attraction",
+    "name": "Hoi An Attraction 154",
+    "city": "Hoi An",
+    "description": "A popular attraction in Hoi An known for its cultural and scenic beauty. Perfect for tourists who love heritage.",
+    "tags": [
+      "lanterns"
+    ],
+    "semantic_text": "Explore this famous attraction in Hoi An, a destination loved for its lanterns vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "attraction_155",
+    "type": "Attraction",
+    "name": "Hoi An Attraction 155",
+    "city": "Hoi An",
+    "description": "A popular attraction in Hoi An known for its cultural and scenic beauty. Perfect for tourists who love romantic.",
+    "tags": [
+      "heritage"
+    ],
+    "semantic_text": "Explore this famous attraction in Hoi An, a destination loved for its heritage vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "hotel_156",
+    "type": "Hotel",
+    "name": "Hoi An Hotel 156",
+    "city": "Hoi An",
+    "description": "A cozy stay option in Hoi An offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "heritage"
+    ],
+    "semantic_text": "Hoi An Hotel 156 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "hotel_157",
+    "type": "Hotel",
+    "name": "Hoi An Hotel 157",
+    "city": "Hoi An",
+    "description": "A cozy stay option in Hoi An offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "lanterns"
+    ],
+    "semantic_text": "Hoi An Hotel 157 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "hotel_158",
+    "type": "Hotel",
+    "name": "Hoi An Hotel 158",
+    "city": "Hoi An",
+    "description": "A cozy stay option in Hoi An offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "lanterns"
+    ],
+    "semantic_text": "Hoi An Hotel 158 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "hotel_159",
+    "type": "Hotel",
+    "name": "Hoi An Hotel 159",
+    "city": "Hoi An",
+    "description": "A cozy stay option in Hoi An offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "romantic"
+    ],
+    "semantic_text": "Hoi An Hotel 159 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "hotel_160",
+    "type": "Hotel",
+    "name": "Hoi An Hotel 160",
+    "city": "Hoi An",
+    "description": "A cozy stay option in Hoi An offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "romantic"
+    ],
+    "semantic_text": "Hoi An Hotel 160 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "hotel_161",
+    "type": "Hotel",
+    "name": "Hoi An Hotel 161",
+    "city": "Hoi An",
+    "description": "A cozy stay option in Hoi An offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "lanterns"
+    ],
+    "semantic_text": "Hoi An Hotel 161 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "hotel_162",
+    "type": "Hotel",
+    "name": "Hoi An Hotel 162",
+    "city": "Hoi An",
+    "description": "A cozy stay option in Hoi An offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "romantic"
+    ],
+    "semantic_text": "Hoi An Hotel 162 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "hotel_163",
+    "type": "Hotel",
+    "name": "Hoi An Hotel 163",
+    "city": "Hoi An",
+    "description": "A cozy stay option in Hoi An offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "lanterns"
+    ],
+    "semantic_text": "Hoi An Hotel 163 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "hotel_164",
+    "type": "Hotel",
+    "name": "Hoi An Hotel 164",
+    "city": "Hoi An",
+    "description": "A cozy stay option in Hoi An offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "lanterns"
+    ],
+    "semantic_text": "Hoi An Hotel 164 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "hotel_165",
+    "type": "Hotel",
+    "name": "Hoi An Hotel 165",
+    "city": "Hoi An",
+    "description": "A cozy stay option in Hoi An offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "romantic"
+    ],
+    "semantic_text": "Hoi An Hotel 165 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "activity_166",
+    "type": "Activity",
+    "name": "Hoi An Activity 166",
+    "city": "Hoi An",
+    "description": "A unique experience in Hoi An where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "romantic"
+    ],
+    "semantic_text": "Participate in this activity in Hoi An to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "activity_167",
+    "type": "Activity",
+    "name": "Hoi An Activity 167",
+    "city": "Hoi An",
+    "description": "A unique experience in Hoi An where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "romantic"
+    ],
+    "semantic_text": "Participate in this activity in Hoi An to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "activity_168",
+    "type": "Activity",
+    "name": "Hoi An Activity 168",
+    "city": "Hoi An",
+    "description": "A unique experience in Hoi An where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "lanterns"
+    ],
+    "semantic_text": "Participate in this activity in Hoi An to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "activity_169",
+    "type": "Activity",
+    "name": "Hoi An Activity 169",
+    "city": "Hoi An",
+    "description": "A unique experience in Hoi An where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "heritage"
+    ],
+    "semantic_text": "Participate in this activity in Hoi An to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "activity_170",
+    "type": "Activity",
+    "name": "Hoi An Activity 170",
+    "city": "Hoi An",
+    "description": "A unique experience in Hoi An where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "lanterns"
+    ],
+    "semantic_text": "Participate in this activity in Hoi An to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "activity_171",
+    "type": "Activity",
+    "name": "Hoi An Activity 171",
+    "city": "Hoi An",
+    "description": "A unique experience in Hoi An where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "romantic"
+    ],
+    "semantic_text": "Participate in this activity in Hoi An to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "activity_172",
+    "type": "Activity",
+    "name": "Hoi An Activity 172",
+    "city": "Hoi An",
+    "description": "A unique experience in Hoi An where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "romantic"
+    ],
+    "semantic_text": "Participate in this activity in Hoi An to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "activity_173",
+    "type": "Activity",
+    "name": "Hoi An Activity 173",
+    "city": "Hoi An",
+    "description": "A unique experience in Hoi An where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "heritage"
+    ],
+    "semantic_text": "Participate in this activity in Hoi An to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "activity_174",
+    "type": "Activity",
+    "name": "Hoi An Activity 174",
+    "city": "Hoi An",
+    "description": "A unique experience in Hoi An where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "lanterns"
+    ],
+    "semantic_text": "Participate in this activity in Hoi An to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "activity_175",
+    "type": "Activity",
+    "name": "Hoi An Activity 175",
+    "city": "Hoi An",
+    "description": "A unique experience in Hoi An where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "romantic"
+    ],
+    "semantic_text": "Participate in this activity in Hoi An to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_hoi_an"
+      }
+    ]
+  },
+  {
+    "id": "attraction_176",
+    "type": "Attraction",
+    "name": "Da Nang Attraction 176",
+    "city": "Da Nang",
+    "description": "A popular attraction in Da Nang known for its cultural and scenic beauty. Perfect for tourists who love adventure.",
+    "tags": [
+      "modern"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Nang, a destination loved for its adventure vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_177",
+    "type": "Attraction",
+    "name": "Da Nang Attraction 177",
+    "city": "Da Nang",
+    "description": "A popular attraction in Da Nang known for its cultural and scenic beauty. Perfect for tourists who love modern.",
+    "tags": [
+      "beach"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Nang, a destination loved for its modern vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_178",
+    "type": "Attraction",
+    "name": "Da Nang Attraction 178",
+    "city": "Da Nang",
+    "description": "A popular attraction in Da Nang known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "beach"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Nang, a destination loved for its adventure vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_179",
+    "type": "Attraction",
+    "name": "Da Nang Attraction 179",
+    "city": "Da Nang",
+    "description": "A popular attraction in Da Nang known for its cultural and scenic beauty. Perfect for tourists who love adventure.",
+    "tags": [
+      "modern"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Nang, a destination loved for its modern vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_180",
+    "type": "Attraction",
+    "name": "Da Nang Attraction 180",
+    "city": "Da Nang",
+    "description": "A popular attraction in Da Nang known for its cultural and scenic beauty. Perfect for tourists who love modern.",
+    "tags": [
+      "beach"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Nang, a destination loved for its modern vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_181",
+    "type": "Attraction",
+    "name": "Da Nang Attraction 181",
+    "city": "Da Nang",
+    "description": "A popular attraction in Da Nang known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "adventure"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Nang, a destination loved for its adventure vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_182",
+    "type": "Attraction",
+    "name": "Da Nang Attraction 182",
+    "city": "Da Nang",
+    "description": "A popular attraction in Da Nang known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "modern"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Nang, a destination loved for its modern vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_183",
+    "type": "Attraction",
+    "name": "Da Nang Attraction 183",
+    "city": "Da Nang",
+    "description": "A popular attraction in Da Nang known for its cultural and scenic beauty. Perfect for tourists who love adventure.",
+    "tags": [
+      "beach"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Nang, a destination loved for its beach vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_184",
+    "type": "Attraction",
+    "name": "Da Nang Attraction 184",
+    "city": "Da Nang",
+    "description": "A popular attraction in Da Nang known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "beach"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Nang, a destination loved for its beach vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_185",
+    "type": "Attraction",
+    "name": "Da Nang Attraction 185",
+    "city": "Da Nang",
+    "description": "A popular attraction in Da Nang known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "beach"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Nang, a destination loved for its modern vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_186",
+    "type": "Attraction",
+    "name": "Da Nang Attraction 186",
+    "city": "Da Nang",
+    "description": "A popular attraction in Da Nang known for its cultural and scenic beauty. Perfect for tourists who love adventure.",
+    "tags": [
+      "adventure"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Nang, a destination loved for its beach vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_187",
+    "type": "Attraction",
+    "name": "Da Nang Attraction 187",
+    "city": "Da Nang",
+    "description": "A popular attraction in Da Nang known for its cultural and scenic beauty. Perfect for tourists who love adventure.",
+    "tags": [
+      "adventure"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Nang, a destination loved for its modern vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_188",
+    "type": "Attraction",
+    "name": "Da Nang Attraction 188",
+    "city": "Da Nang",
+    "description": "A popular attraction in Da Nang known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "modern"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Nang, a destination loved for its beach vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_189",
+    "type": "Attraction",
+    "name": "Da Nang Attraction 189",
+    "city": "Da Nang",
+    "description": "A popular attraction in Da Nang known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "beach"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Nang, a destination loved for its adventure vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_190",
+    "type": "Attraction",
+    "name": "Da Nang Attraction 190",
+    "city": "Da Nang",
+    "description": "A popular attraction in Da Nang known for its cultural and scenic beauty. Perfect for tourists who love adventure.",
+    "tags": [
+      "adventure"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Nang, a destination loved for its adventure vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_191",
+    "type": "Hotel",
+    "name": "Da Nang Hotel 191",
+    "city": "Da Nang",
+    "description": "A cozy stay option in Da Nang offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "modern"
+    ],
+    "semantic_text": "Da Nang Hotel 191 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_192",
+    "type": "Hotel",
+    "name": "Da Nang Hotel 192",
+    "city": "Da Nang",
+    "description": "A cozy stay option in Da Nang offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "modern"
+    ],
+    "semantic_text": "Da Nang Hotel 192 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_193",
+    "type": "Hotel",
+    "name": "Da Nang Hotel 193",
+    "city": "Da Nang",
+    "description": "A cozy stay option in Da Nang offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "modern"
+    ],
+    "semantic_text": "Da Nang Hotel 193 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_194",
+    "type": "Hotel",
+    "name": "Da Nang Hotel 194",
+    "city": "Da Nang",
+    "description": "A cozy stay option in Da Nang offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "modern"
+    ],
+    "semantic_text": "Da Nang Hotel 194 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_195",
+    "type": "Hotel",
+    "name": "Da Nang Hotel 195",
+    "city": "Da Nang",
+    "description": "A cozy stay option in Da Nang offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "modern"
+    ],
+    "semantic_text": "Da Nang Hotel 195 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_196",
+    "type": "Hotel",
+    "name": "Da Nang Hotel 196",
+    "city": "Da Nang",
+    "description": "A cozy stay option in Da Nang offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "adventure"
+    ],
+    "semantic_text": "Da Nang Hotel 196 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_197",
+    "type": "Hotel",
+    "name": "Da Nang Hotel 197",
+    "city": "Da Nang",
+    "description": "A cozy stay option in Da Nang offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "beach"
+    ],
+    "semantic_text": "Da Nang Hotel 197 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_198",
+    "type": "Hotel",
+    "name": "Da Nang Hotel 198",
+    "city": "Da Nang",
+    "description": "A cozy stay option in Da Nang offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "adventure"
+    ],
+    "semantic_text": "Da Nang Hotel 198 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_199",
+    "type": "Hotel",
+    "name": "Da Nang Hotel 199",
+    "city": "Da Nang",
+    "description": "A cozy stay option in Da Nang offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "beach"
+    ],
+    "semantic_text": "Da Nang Hotel 199 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_200",
+    "type": "Hotel",
+    "name": "Da Nang Hotel 200",
+    "city": "Da Nang",
+    "description": "A cozy stay option in Da Nang offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "beach"
+    ],
+    "semantic_text": "Da Nang Hotel 200 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "activity_201",
+    "type": "Activity",
+    "name": "Da Nang Activity 201",
+    "city": "Da Nang",
+    "description": "A unique experience in Da Nang where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "modern"
+    ],
+    "semantic_text": "Participate in this activity in Da Nang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "activity_202",
+    "type": "Activity",
+    "name": "Da Nang Activity 202",
+    "city": "Da Nang",
+    "description": "A unique experience in Da Nang where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "modern"
+    ],
+    "semantic_text": "Participate in this activity in Da Nang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "activity_203",
+    "type": "Activity",
+    "name": "Da Nang Activity 203",
+    "city": "Da Nang",
+    "description": "A unique experience in Da Nang where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "adventure"
+    ],
+    "semantic_text": "Participate in this activity in Da Nang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "activity_204",
+    "type": "Activity",
+    "name": "Da Nang Activity 204",
+    "city": "Da Nang",
+    "description": "A unique experience in Da Nang where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "adventure"
+    ],
+    "semantic_text": "Participate in this activity in Da Nang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "activity_205",
+    "type": "Activity",
+    "name": "Da Nang Activity 205",
+    "city": "Da Nang",
+    "description": "A unique experience in Da Nang where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "adventure"
+    ],
+    "semantic_text": "Participate in this activity in Da Nang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "activity_206",
+    "type": "Activity",
+    "name": "Da Nang Activity 206",
+    "city": "Da Nang",
+    "description": "A unique experience in Da Nang where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "adventure"
+    ],
+    "semantic_text": "Participate in this activity in Da Nang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "activity_207",
+    "type": "Activity",
+    "name": "Da Nang Activity 207",
+    "city": "Da Nang",
+    "description": "A unique experience in Da Nang where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "beach"
+    ],
+    "semantic_text": "Participate in this activity in Da Nang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "activity_208",
+    "type": "Activity",
+    "name": "Da Nang Activity 208",
+    "city": "Da Nang",
+    "description": "A unique experience in Da Nang where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "adventure"
+    ],
+    "semantic_text": "Participate in this activity in Da Nang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "activity_209",
+    "type": "Activity",
+    "name": "Da Nang Activity 209",
+    "city": "Da Nang",
+    "description": "A unique experience in Da Nang where visitors can enjoy local markets.",
+    "tags": [
+      "experience",
+      "adventure"
+    ],
+    "semantic_text": "Participate in this activity in Da Nang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "activity_210",
+    "type": "Activity",
+    "name": "Da Nang Activity 210",
+    "city": "Da Nang",
+    "description": "A unique experience in Da Nang where visitors can enjoy local markets.",
+    "tags": [
+      "experience",
+      "beach"
+    ],
+    "semantic_text": "Participate in this activity in Da Nang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_nang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_211",
+    "type": "Attraction",
+    "name": "Nha Trang Attraction 211",
+    "city": "Nha Trang",
+    "description": "A popular attraction in Nha Trang known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "resort"
+    ],
+    "semantic_text": "Explore this famous attraction in Nha Trang, a destination loved for its diving vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_212",
+    "type": "Attraction",
+    "name": "Nha Trang Attraction 212",
+    "city": "Nha Trang",
+    "description": "A popular attraction in Nha Trang known for its cultural and scenic beauty. Perfect for tourists who love resort.",
+    "tags": [
+      "resort"
+    ],
+    "semantic_text": "Explore this famous attraction in Nha Trang, a destination loved for its diving vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_213",
+    "type": "Attraction",
+    "name": "Nha Trang Attraction 213",
+    "city": "Nha Trang",
+    "description": "A popular attraction in Nha Trang known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "resort"
+    ],
+    "semantic_text": "Explore this famous attraction in Nha Trang, a destination loved for its diving vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_214",
+    "type": "Attraction",
+    "name": "Nha Trang Attraction 214",
+    "city": "Nha Trang",
+    "description": "A popular attraction in Nha Trang known for its cultural and scenic beauty. Perfect for tourists who love resort.",
+    "tags": [
+      "resort"
+    ],
+    "semantic_text": "Explore this famous attraction in Nha Trang, a destination loved for its beach vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_215",
+    "type": "Attraction",
+    "name": "Nha Trang Attraction 215",
+    "city": "Nha Trang",
+    "description": "A popular attraction in Nha Trang known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "beach"
+    ],
+    "semantic_text": "Explore this famous attraction in Nha Trang, a destination loved for its beach vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_216",
+    "type": "Attraction",
+    "name": "Nha Trang Attraction 216",
+    "city": "Nha Trang",
+    "description": "A popular attraction in Nha Trang known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "diving"
+    ],
+    "semantic_text": "Explore this famous attraction in Nha Trang, a destination loved for its beach vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_217",
+    "type": "Attraction",
+    "name": "Nha Trang Attraction 217",
+    "city": "Nha Trang",
+    "description": "A popular attraction in Nha Trang known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "resort"
+    ],
+    "semantic_text": "Explore this famous attraction in Nha Trang, a destination loved for its diving vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_218",
+    "type": "Attraction",
+    "name": "Nha Trang Attraction 218",
+    "city": "Nha Trang",
+    "description": "A popular attraction in Nha Trang known for its cultural and scenic beauty. Perfect for tourists who love diving.",
+    "tags": [
+      "beach"
+    ],
+    "semantic_text": "Explore this famous attraction in Nha Trang, a destination loved for its diving vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_219",
+    "type": "Attraction",
+    "name": "Nha Trang Attraction 219",
+    "city": "Nha Trang",
+    "description": "A popular attraction in Nha Trang known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "resort"
+    ],
+    "semantic_text": "Explore this famous attraction in Nha Trang, a destination loved for its beach vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_220",
+    "type": "Attraction",
+    "name": "Nha Trang Attraction 220",
+    "city": "Nha Trang",
+    "description": "A popular attraction in Nha Trang known for its cultural and scenic beauty. Perfect for tourists who love diving.",
+    "tags": [
+      "resort"
+    ],
+    "semantic_text": "Explore this famous attraction in Nha Trang, a destination loved for its beach vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_221",
+    "type": "Attraction",
+    "name": "Nha Trang Attraction 221",
+    "city": "Nha Trang",
+    "description": "A popular attraction in Nha Trang known for its cultural and scenic beauty. Perfect for tourists who love resort.",
+    "tags": [
+      "resort"
+    ],
+    "semantic_text": "Explore this famous attraction in Nha Trang, a destination loved for its beach vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_222",
+    "type": "Attraction",
+    "name": "Nha Trang Attraction 222",
+    "city": "Nha Trang",
+    "description": "A popular attraction in Nha Trang known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "resort"
+    ],
+    "semantic_text": "Explore this famous attraction in Nha Trang, a destination loved for its beach vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_223",
+    "type": "Attraction",
+    "name": "Nha Trang Attraction 223",
+    "city": "Nha Trang",
+    "description": "A popular attraction in Nha Trang known for its cultural and scenic beauty. Perfect for tourists who love resort.",
+    "tags": [
+      "resort"
+    ],
+    "semantic_text": "Explore this famous attraction in Nha Trang, a destination loved for its diving vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_224",
+    "type": "Attraction",
+    "name": "Nha Trang Attraction 224",
+    "city": "Nha Trang",
+    "description": "A popular attraction in Nha Trang known for its cultural and scenic beauty. Perfect for tourists who love beach.",
+    "tags": [
+      "resort"
+    ],
+    "semantic_text": "Explore this famous attraction in Nha Trang, a destination loved for its diving vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_225",
+    "type": "Attraction",
+    "name": "Nha Trang Attraction 225",
+    "city": "Nha Trang",
+    "description": "A popular attraction in Nha Trang known for its cultural and scenic beauty. Perfect for tourists who love resort.",
+    "tags": [
+      "resort"
+    ],
+    "semantic_text": "Explore this famous attraction in Nha Trang, a destination loved for its resort vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_226",
+    "type": "Hotel",
+    "name": "Nha Trang Hotel 226",
+    "city": "Nha Trang",
+    "description": "A cozy stay option in Nha Trang offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "diving"
+    ],
+    "semantic_text": "Nha Trang Hotel 226 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_227",
+    "type": "Hotel",
+    "name": "Nha Trang Hotel 227",
+    "city": "Nha Trang",
+    "description": "A cozy stay option in Nha Trang offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "diving"
+    ],
+    "semantic_text": "Nha Trang Hotel 227 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_228",
+    "type": "Hotel",
+    "name": "Nha Trang Hotel 228",
+    "city": "Nha Trang",
+    "description": "A cozy stay option in Nha Trang offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "diving"
+    ],
+    "semantic_text": "Nha Trang Hotel 228 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_229",
+    "type": "Hotel",
+    "name": "Nha Trang Hotel 229",
+    "city": "Nha Trang",
+    "description": "A cozy stay option in Nha Trang offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "resort"
+    ],
+    "semantic_text": "Nha Trang Hotel 229 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_230",
+    "type": "Hotel",
+    "name": "Nha Trang Hotel 230",
+    "city": "Nha Trang",
+    "description": "A cozy stay option in Nha Trang offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "diving"
+    ],
+    "semantic_text": "Nha Trang Hotel 230 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_231",
+    "type": "Hotel",
+    "name": "Nha Trang Hotel 231",
+    "city": "Nha Trang",
+    "description": "A cozy stay option in Nha Trang offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "beach"
+    ],
+    "semantic_text": "Nha Trang Hotel 231 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_232",
+    "type": "Hotel",
+    "name": "Nha Trang Hotel 232",
+    "city": "Nha Trang",
+    "description": "A cozy stay option in Nha Trang offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "resort"
+    ],
+    "semantic_text": "Nha Trang Hotel 232 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_233",
+    "type": "Hotel",
+    "name": "Nha Trang Hotel 233",
+    "city": "Nha Trang",
+    "description": "A cozy stay option in Nha Trang offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "resort"
+    ],
+    "semantic_text": "Nha Trang Hotel 233 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_234",
+    "type": "Hotel",
+    "name": "Nha Trang Hotel 234",
+    "city": "Nha Trang",
+    "description": "A cozy stay option in Nha Trang offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "resort"
+    ],
+    "semantic_text": "Nha Trang Hotel 234 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "hotel_235",
+    "type": "Hotel",
+    "name": "Nha Trang Hotel 235",
+    "city": "Nha Trang",
+    "description": "A cozy stay option in Nha Trang offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "resort"
+    ],
+    "semantic_text": "Nha Trang Hotel 235 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "activity_236",
+    "type": "Activity",
+    "name": "Nha Trang Activity 236",
+    "city": "Nha Trang",
+    "description": "A unique experience in Nha Trang where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "beach"
+    ],
+    "semantic_text": "Participate in this activity in Nha Trang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "activity_237",
+    "type": "Activity",
+    "name": "Nha Trang Activity 237",
+    "city": "Nha Trang",
+    "description": "A unique experience in Nha Trang where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "beach"
+    ],
+    "semantic_text": "Participate in this activity in Nha Trang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "activity_238",
+    "type": "Activity",
+    "name": "Nha Trang Activity 238",
+    "city": "Nha Trang",
+    "description": "A unique experience in Nha Trang where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "resort"
+    ],
+    "semantic_text": "Participate in this activity in Nha Trang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "activity_239",
+    "type": "Activity",
+    "name": "Nha Trang Activity 239",
+    "city": "Nha Trang",
+    "description": "A unique experience in Nha Trang where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "beach"
+    ],
+    "semantic_text": "Participate in this activity in Nha Trang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "activity_240",
+    "type": "Activity",
+    "name": "Nha Trang Activity 240",
+    "city": "Nha Trang",
+    "description": "A unique experience in Nha Trang where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "diving"
+    ],
+    "semantic_text": "Participate in this activity in Nha Trang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "activity_241",
+    "type": "Activity",
+    "name": "Nha Trang Activity 241",
+    "city": "Nha Trang",
+    "description": "A unique experience in Nha Trang where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "diving"
+    ],
+    "semantic_text": "Participate in this activity in Nha Trang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "activity_242",
+    "type": "Activity",
+    "name": "Nha Trang Activity 242",
+    "city": "Nha Trang",
+    "description": "A unique experience in Nha Trang where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "resort"
+    ],
+    "semantic_text": "Participate in this activity in Nha Trang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "activity_243",
+    "type": "Activity",
+    "name": "Nha Trang Activity 243",
+    "city": "Nha Trang",
+    "description": "A unique experience in Nha Trang where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "beach"
+    ],
+    "semantic_text": "Participate in this activity in Nha Trang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "activity_244",
+    "type": "Activity",
+    "name": "Nha Trang Activity 244",
+    "city": "Nha Trang",
+    "description": "A unique experience in Nha Trang where visitors can enjoy local markets.",
+    "tags": [
+      "experience",
+      "beach"
+    ],
+    "semantic_text": "Participate in this activity in Nha Trang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "activity_245",
+    "type": "Activity",
+    "name": "Nha Trang Activity 245",
+    "city": "Nha Trang",
+    "description": "A unique experience in Nha Trang where visitors can enjoy local markets.",
+    "tags": [
+      "experience",
+      "resort"
+    ],
+    "semantic_text": "Participate in this activity in Nha Trang to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_nha_trang"
+      }
+    ]
+  },
+  {
+    "id": "attraction_246",
+    "type": "Attraction",
+    "name": "Da Lat Attraction 246",
+    "city": "Da Lat",
+    "description": "A popular attraction in Da Lat known for its cultural and scenic beauty. Perfect for tourists who love flowers.",
+    "tags": [
+      "romantic"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Lat, a destination loved for its flowers vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "attraction_247",
+    "type": "Attraction",
+    "name": "Da Lat Attraction 247",
+    "city": "Da Lat",
+    "description": "A popular attraction in Da Lat known for its cultural and scenic beauty. Perfect for tourists who love mountain.",
+    "tags": [
+      "flowers"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Lat, a destination loved for its romantic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "attraction_248",
+    "type": "Attraction",
+    "name": "Da Lat Attraction 248",
+    "city": "Da Lat",
+    "description": "A popular attraction in Da Lat known for its cultural and scenic beauty. Perfect for tourists who love flowers.",
+    "tags": [
+      "romantic"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Lat, a destination loved for its romantic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "attraction_249",
+    "type": "Attraction",
+    "name": "Da Lat Attraction 249",
+    "city": "Da Lat",
+    "description": "A popular attraction in Da Lat known for its cultural and scenic beauty. Perfect for tourists who love mountain.",
+    "tags": [
+      "romantic"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Lat, a destination loved for its romantic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "attraction_250",
+    "type": "Attraction",
+    "name": "Da Lat Attraction 250",
+    "city": "Da Lat",
+    "description": "A popular attraction in Da Lat known for its cultural and scenic beauty. Perfect for tourists who love romantic.",
+    "tags": [
+      "flowers"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Lat, a destination loved for its flowers vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "attraction_251",
+    "type": "Attraction",
+    "name": "Da Lat Attraction 251",
+    "city": "Da Lat",
+    "description": "A popular attraction in Da Lat known for its cultural and scenic beauty. Perfect for tourists who love mountain.",
+    "tags": [
+      "romantic"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Lat, a destination loved for its mountain vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "attraction_252",
+    "type": "Attraction",
+    "name": "Da Lat Attraction 252",
+    "city": "Da Lat",
+    "description": "A popular attraction in Da Lat known for its cultural and scenic beauty. Perfect for tourists who love flowers.",
+    "tags": [
+      "romantic"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Lat, a destination loved for its mountain vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "attraction_253",
+    "type": "Attraction",
+    "name": "Da Lat Attraction 253",
+    "city": "Da Lat",
+    "description": "A popular attraction in Da Lat known for its cultural and scenic beauty. Perfect for tourists who love flowers.",
+    "tags": [
+      "romantic"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Lat, a destination loved for its mountain vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "attraction_254",
+    "type": "Attraction",
+    "name": "Da Lat Attraction 254",
+    "city": "Da Lat",
+    "description": "A popular attraction in Da Lat known for its cultural and scenic beauty. Perfect for tourists who love mountain.",
+    "tags": [
+      "flowers"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Lat, a destination loved for its romantic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "attraction_255",
+    "type": "Attraction",
+    "name": "Da Lat Attraction 255",
+    "city": "Da Lat",
+    "description": "A popular attraction in Da Lat known for its cultural and scenic beauty. Perfect for tourists who love flowers.",
+    "tags": [
+      "flowers"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Lat, a destination loved for its mountain vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "attraction_256",
+    "type": "Attraction",
+    "name": "Da Lat Attraction 256",
+    "city": "Da Lat",
+    "description": "A popular attraction in Da Lat known for its cultural and scenic beauty. Perfect for tourists who love mountain.",
+    "tags": [
+      "mountain"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Lat, a destination loved for its romantic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "attraction_257",
+    "type": "Attraction",
+    "name": "Da Lat Attraction 257",
+    "city": "Da Lat",
+    "description": "A popular attraction in Da Lat known for its cultural and scenic beauty. Perfect for tourists who love romantic.",
+    "tags": [
+      "mountain"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Lat, a destination loved for its romantic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "attraction_258",
+    "type": "Attraction",
+    "name": "Da Lat Attraction 258",
+    "city": "Da Lat",
+    "description": "A popular attraction in Da Lat known for its cultural and scenic beauty. Perfect for tourists who love flowers.",
+    "tags": [
+      "romantic"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Lat, a destination loved for its romantic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "attraction_259",
+    "type": "Attraction",
+    "name": "Da Lat Attraction 259",
+    "city": "Da Lat",
+    "description": "A popular attraction in Da Lat known for its cultural and scenic beauty. Perfect for tourists who love romantic.",
+    "tags": [
+      "romantic"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Lat, a destination loved for its flowers vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "attraction_260",
+    "type": "Attraction",
+    "name": "Da Lat Attraction 260",
+    "city": "Da Lat",
+    "description": "A popular attraction in Da Lat known for its cultural and scenic beauty. Perfect for tourists who love romantic.",
+    "tags": [
+      "romantic"
+    ],
+    "semantic_text": "Explore this famous attraction in Da Lat, a destination loved for its romantic vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "hotel_261",
+    "type": "Hotel",
+    "name": "Da Lat Hotel 261",
+    "city": "Da Lat",
+    "description": "A cozy stay option in Da Lat offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "flowers"
+    ],
+    "semantic_text": "Da Lat Hotel 261 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "hotel_262",
+    "type": "Hotel",
+    "name": "Da Lat Hotel 262",
+    "city": "Da Lat",
+    "description": "A cozy stay option in Da Lat offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "mountain"
+    ],
+    "semantic_text": "Da Lat Hotel 262 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "hotel_263",
+    "type": "Hotel",
+    "name": "Da Lat Hotel 263",
+    "city": "Da Lat",
+    "description": "A cozy stay option in Da Lat offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "mountain"
+    ],
+    "semantic_text": "Da Lat Hotel 263 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "hotel_264",
+    "type": "Hotel",
+    "name": "Da Lat Hotel 264",
+    "city": "Da Lat",
+    "description": "A cozy stay option in Da Lat offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "romantic"
+    ],
+    "semantic_text": "Da Lat Hotel 264 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "hotel_265",
+    "type": "Hotel",
+    "name": "Da Lat Hotel 265",
+    "city": "Da Lat",
+    "description": "A cozy stay option in Da Lat offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "flowers"
+    ],
+    "semantic_text": "Da Lat Hotel 265 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "hotel_266",
+    "type": "Hotel",
+    "name": "Da Lat Hotel 266",
+    "city": "Da Lat",
+    "description": "A cozy stay option in Da Lat offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "mountain"
+    ],
+    "semantic_text": "Da Lat Hotel 266 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "hotel_267",
+    "type": "Hotel",
+    "name": "Da Lat Hotel 267",
+    "city": "Da Lat",
+    "description": "A cozy stay option in Da Lat offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "flowers"
+    ],
+    "semantic_text": "Da Lat Hotel 267 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "hotel_268",
+    "type": "Hotel",
+    "name": "Da Lat Hotel 268",
+    "city": "Da Lat",
+    "description": "A cozy stay option in Da Lat offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "romantic"
+    ],
+    "semantic_text": "Da Lat Hotel 268 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "hotel_269",
+    "type": "Hotel",
+    "name": "Da Lat Hotel 269",
+    "city": "Da Lat",
+    "description": "A cozy stay option in Da Lat offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "romantic"
+    ],
+    "semantic_text": "Da Lat Hotel 269 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "hotel_270",
+    "type": "Hotel",
+    "name": "Da Lat Hotel 270",
+    "city": "Da Lat",
+    "description": "A cozy stay option in Da Lat offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "flowers"
+    ],
+    "semantic_text": "Da Lat Hotel 270 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "activity_271",
+    "type": "Activity",
+    "name": "Da Lat Activity 271",
+    "city": "Da Lat",
+    "description": "A unique experience in Da Lat where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "flowers"
+    ],
+    "semantic_text": "Participate in this activity in Da Lat to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "activity_272",
+    "type": "Activity",
+    "name": "Da Lat Activity 272",
+    "city": "Da Lat",
+    "description": "A unique experience in Da Lat where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "flowers"
+    ],
+    "semantic_text": "Participate in this activity in Da Lat to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "activity_273",
+    "type": "Activity",
+    "name": "Da Lat Activity 273",
+    "city": "Da Lat",
+    "description": "A unique experience in Da Lat where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "flowers"
+    ],
+    "semantic_text": "Participate in this activity in Da Lat to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "activity_274",
+    "type": "Activity",
+    "name": "Da Lat Activity 274",
+    "city": "Da Lat",
+    "description": "A unique experience in Da Lat where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "flowers"
+    ],
+    "semantic_text": "Participate in this activity in Da Lat to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "activity_275",
+    "type": "Activity",
+    "name": "Da Lat Activity 275",
+    "city": "Da Lat",
+    "description": "A unique experience in Da Lat where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "mountain"
+    ],
+    "semantic_text": "Participate in this activity in Da Lat to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "activity_276",
+    "type": "Activity",
+    "name": "Da Lat Activity 276",
+    "city": "Da Lat",
+    "description": "A unique experience in Da Lat where visitors can enjoy local markets.",
+    "tags": [
+      "experience",
+      "flowers"
+    ],
+    "semantic_text": "Participate in this activity in Da Lat to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "activity_277",
+    "type": "Activity",
+    "name": "Da Lat Activity 277",
+    "city": "Da Lat",
+    "description": "A unique experience in Da Lat where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "romantic"
+    ],
+    "semantic_text": "Participate in this activity in Da Lat to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "activity_278",
+    "type": "Activity",
+    "name": "Da Lat Activity 278",
+    "city": "Da Lat",
+    "description": "A unique experience in Da Lat where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "romantic"
+    ],
+    "semantic_text": "Participate in this activity in Da Lat to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "activity_279",
+    "type": "Activity",
+    "name": "Da Lat Activity 279",
+    "city": "Da Lat",
+    "description": "A unique experience in Da Lat where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "mountain"
+    ],
+    "semantic_text": "Participate in this activity in Da Lat to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "activity_280",
+    "type": "Activity",
+    "name": "Da Lat Activity 280",
+    "city": "Da Lat",
+    "description": "A unique experience in Da Lat where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "flowers"
+    ],
+    "semantic_text": "Participate in this activity in Da Lat to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_da_lat"
+      }
+    ]
+  },
+  {
+    "id": "attraction_281",
+    "type": "Attraction",
+    "name": "Ho Chi Minh City Attraction 281",
+    "city": "Ho Chi Minh City",
+    "description": "A popular attraction in Ho Chi Minh City known for its cultural and scenic beauty. Perfect for tourists who love urban.",
+    "tags": [
+      "history"
+    ],
+    "semantic_text": "Explore this famous attraction in Ho Chi Minh City, a destination loved for its urban vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "attraction_282",
+    "type": "Attraction",
+    "name": "Ho Chi Minh City Attraction 282",
+    "city": "Ho Chi Minh City",
+    "description": "A popular attraction in Ho Chi Minh City known for its cultural and scenic beauty. Perfect for tourists who love urban.",
+    "tags": [
+      "markets"
+    ],
+    "semantic_text": "Explore this famous attraction in Ho Chi Minh City, a destination loved for its urban vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "attraction_283",
+    "type": "Attraction",
+    "name": "Ho Chi Minh City Attraction 283",
+    "city": "Ho Chi Minh City",
+    "description": "A popular attraction in Ho Chi Minh City known for its cultural and scenic beauty. Perfect for tourists who love history.",
+    "tags": [
+      "urban"
+    ],
+    "semantic_text": "Explore this famous attraction in Ho Chi Minh City, a destination loved for its history vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "attraction_284",
+    "type": "Attraction",
+    "name": "Ho Chi Minh City Attraction 284",
+    "city": "Ho Chi Minh City",
+    "description": "A popular attraction in Ho Chi Minh City known for its cultural and scenic beauty. Perfect for tourists who love history.",
+    "tags": [
+      "markets"
+    ],
+    "semantic_text": "Explore this famous attraction in Ho Chi Minh City, a destination loved for its history vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "attraction_285",
+    "type": "Attraction",
+    "name": "Ho Chi Minh City Attraction 285",
+    "city": "Ho Chi Minh City",
+    "description": "A popular attraction in Ho Chi Minh City known for its cultural and scenic beauty. Perfect for tourists who love markets.",
+    "tags": [
+      "urban"
+    ],
+    "semantic_text": "Explore this famous attraction in Ho Chi Minh City, a destination loved for its urban vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "attraction_286",
+    "type": "Attraction",
+    "name": "Ho Chi Minh City Attraction 286",
+    "city": "Ho Chi Minh City",
+    "description": "A popular attraction in Ho Chi Minh City known for its cultural and scenic beauty. Perfect for tourists who love urban.",
+    "tags": [
+      "urban"
+    ],
+    "semantic_text": "Explore this famous attraction in Ho Chi Minh City, a destination loved for its urban vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "attraction_287",
+    "type": "Attraction",
+    "name": "Ho Chi Minh City Attraction 287",
+    "city": "Ho Chi Minh City",
+    "description": "A popular attraction in Ho Chi Minh City known for its cultural and scenic beauty. Perfect for tourists who love markets.",
+    "tags": [
+      "urban"
+    ],
+    "semantic_text": "Explore this famous attraction in Ho Chi Minh City, a destination loved for its urban vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "attraction_288",
+    "type": "Attraction",
+    "name": "Ho Chi Minh City Attraction 288",
+    "city": "Ho Chi Minh City",
+    "description": "A popular attraction in Ho Chi Minh City known for its cultural and scenic beauty. Perfect for tourists who love markets.",
+    "tags": [
+      "urban"
+    ],
+    "semantic_text": "Explore this famous attraction in Ho Chi Minh City, a destination loved for its history vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "attraction_289",
+    "type": "Attraction",
+    "name": "Ho Chi Minh City Attraction 289",
+    "city": "Ho Chi Minh City",
+    "description": "A popular attraction in Ho Chi Minh City known for its cultural and scenic beauty. Perfect for tourists who love urban.",
+    "tags": [
+      "markets"
+    ],
+    "semantic_text": "Explore this famous attraction in Ho Chi Minh City, a destination loved for its history vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "attraction_290",
+    "type": "Attraction",
+    "name": "Ho Chi Minh City Attraction 290",
+    "city": "Ho Chi Minh City",
+    "description": "A popular attraction in Ho Chi Minh City known for its cultural and scenic beauty. Perfect for tourists who love markets.",
+    "tags": [
+      "history"
+    ],
+    "semantic_text": "Explore this famous attraction in Ho Chi Minh City, a destination loved for its history vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "attraction_291",
+    "type": "Attraction",
+    "name": "Ho Chi Minh City Attraction 291",
+    "city": "Ho Chi Minh City",
+    "description": "A popular attraction in Ho Chi Minh City known for its cultural and scenic beauty. Perfect for tourists who love history.",
+    "tags": [
+      "history"
+    ],
+    "semantic_text": "Explore this famous attraction in Ho Chi Minh City, a destination loved for its history vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "attraction_292",
+    "type": "Attraction",
+    "name": "Ho Chi Minh City Attraction 292",
+    "city": "Ho Chi Minh City",
+    "description": "A popular attraction in Ho Chi Minh City known for its cultural and scenic beauty. Perfect for tourists who love urban.",
+    "tags": [
+      "urban"
+    ],
+    "semantic_text": "Explore this famous attraction in Ho Chi Minh City, a destination loved for its history vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "attraction_293",
+    "type": "Attraction",
+    "name": "Ho Chi Minh City Attraction 293",
+    "city": "Ho Chi Minh City",
+    "description": "A popular attraction in Ho Chi Minh City known for its cultural and scenic beauty. Perfect for tourists who love markets.",
+    "tags": [
+      "markets"
+    ],
+    "semantic_text": "Explore this famous attraction in Ho Chi Minh City, a destination loved for its markets vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "attraction_294",
+    "type": "Attraction",
+    "name": "Ho Chi Minh City Attraction 294",
+    "city": "Ho Chi Minh City",
+    "description": "A popular attraction in Ho Chi Minh City known for its cultural and scenic beauty. Perfect for tourists who love urban.",
+    "tags": [
+      "history"
+    ],
+    "semantic_text": "Explore this famous attraction in Ho Chi Minh City, a destination loved for its markets vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "attraction_295",
+    "type": "Attraction",
+    "name": "Ho Chi Minh City Attraction 295",
+    "city": "Ho Chi Minh City",
+    "description": "A popular attraction in Ho Chi Minh City known for its cultural and scenic beauty. Perfect for tourists who love urban.",
+    "tags": [
+      "urban"
+    ],
+    "semantic_text": "Explore this famous attraction in Ho Chi Minh City, a destination loved for its urban vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "hotel_296",
+    "type": "Hotel",
+    "name": "Ho Chi Minh City Hotel 296",
+    "city": "Ho Chi Minh City",
+    "description": "A cozy stay option in Ho Chi Minh City offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "urban"
+    ],
+    "semantic_text": "Ho Chi Minh City Hotel 296 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "hotel_297",
+    "type": "Hotel",
+    "name": "Ho Chi Minh City Hotel 297",
+    "city": "Ho Chi Minh City",
+    "description": "A cozy stay option in Ho Chi Minh City offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "urban"
+    ],
+    "semantic_text": "Ho Chi Minh City Hotel 297 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "hotel_298",
+    "type": "Hotel",
+    "name": "Ho Chi Minh City Hotel 298",
+    "city": "Ho Chi Minh City",
+    "description": "A cozy stay option in Ho Chi Minh City offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "markets"
+    ],
+    "semantic_text": "Ho Chi Minh City Hotel 298 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "hotel_299",
+    "type": "Hotel",
+    "name": "Ho Chi Minh City Hotel 299",
+    "city": "Ho Chi Minh City",
+    "description": "A cozy stay option in Ho Chi Minh City offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "markets"
+    ],
+    "semantic_text": "Ho Chi Minh City Hotel 299 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "hotel_300",
+    "type": "Hotel",
+    "name": "Ho Chi Minh City Hotel 300",
+    "city": "Ho Chi Minh City",
+    "description": "A cozy stay option in Ho Chi Minh City offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "markets"
+    ],
+    "semantic_text": "Ho Chi Minh City Hotel 300 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "hotel_301",
+    "type": "Hotel",
+    "name": "Ho Chi Minh City Hotel 301",
+    "city": "Ho Chi Minh City",
+    "description": "A cozy stay option in Ho Chi Minh City offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "markets"
+    ],
+    "semantic_text": "Ho Chi Minh City Hotel 301 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "hotel_302",
+    "type": "Hotel",
+    "name": "Ho Chi Minh City Hotel 302",
+    "city": "Ho Chi Minh City",
+    "description": "A cozy stay option in Ho Chi Minh City offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "markets"
+    ],
+    "semantic_text": "Ho Chi Minh City Hotel 302 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "hotel_303",
+    "type": "Hotel",
+    "name": "Ho Chi Minh City Hotel 303",
+    "city": "Ho Chi Minh City",
+    "description": "A cozy stay option in Ho Chi Minh City offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "urban"
+    ],
+    "semantic_text": "Ho Chi Minh City Hotel 303 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "hotel_304",
+    "type": "Hotel",
+    "name": "Ho Chi Minh City Hotel 304",
+    "city": "Ho Chi Minh City",
+    "description": "A cozy stay option in Ho Chi Minh City offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "history"
+    ],
+    "semantic_text": "Ho Chi Minh City Hotel 304 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "hotel_305",
+    "type": "Hotel",
+    "name": "Ho Chi Minh City Hotel 305",
+    "city": "Ho Chi Minh City",
+    "description": "A cozy stay option in Ho Chi Minh City offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "markets"
+    ],
+    "semantic_text": "Ho Chi Minh City Hotel 305 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "activity_306",
+    "type": "Activity",
+    "name": "Ho Chi Minh City Activity 306",
+    "city": "Ho Chi Minh City",
+    "description": "A unique experience in Ho Chi Minh City where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "history"
+    ],
+    "semantic_text": "Participate in this activity in Ho Chi Minh City to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "activity_307",
+    "type": "Activity",
+    "name": "Ho Chi Minh City Activity 307",
+    "city": "Ho Chi Minh City",
+    "description": "A unique experience in Ho Chi Minh City where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "history"
+    ],
+    "semantic_text": "Participate in this activity in Ho Chi Minh City to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "activity_308",
+    "type": "Activity",
+    "name": "Ho Chi Minh City Activity 308",
+    "city": "Ho Chi Minh City",
+    "description": "A unique experience in Ho Chi Minh City where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "urban"
+    ],
+    "semantic_text": "Participate in this activity in Ho Chi Minh City to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "activity_309",
+    "type": "Activity",
+    "name": "Ho Chi Minh City Activity 309",
+    "city": "Ho Chi Minh City",
+    "description": "A unique experience in Ho Chi Minh City where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "markets"
+    ],
+    "semantic_text": "Participate in this activity in Ho Chi Minh City to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "activity_310",
+    "type": "Activity",
+    "name": "Ho Chi Minh City Activity 310",
+    "city": "Ho Chi Minh City",
+    "description": "A unique experience in Ho Chi Minh City where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "urban"
+    ],
+    "semantic_text": "Participate in this activity in Ho Chi Minh City to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "activity_311",
+    "type": "Activity",
+    "name": "Ho Chi Minh City Activity 311",
+    "city": "Ho Chi Minh City",
+    "description": "A unique experience in Ho Chi Minh City where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "markets"
+    ],
+    "semantic_text": "Participate in this activity in Ho Chi Minh City to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "activity_312",
+    "type": "Activity",
+    "name": "Ho Chi Minh City Activity 312",
+    "city": "Ho Chi Minh City",
+    "description": "A unique experience in Ho Chi Minh City where visitors can enjoy historical walks.",
+    "tags": [
+      "experience",
+      "urban"
+    ],
+    "semantic_text": "Participate in this activity in Ho Chi Minh City to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "activity_313",
+    "type": "Activity",
+    "name": "Ho Chi Minh City Activity 313",
+    "city": "Ho Chi Minh City",
+    "description": "A unique experience in Ho Chi Minh City where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "history"
+    ],
+    "semantic_text": "Participate in this activity in Ho Chi Minh City to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "activity_314",
+    "type": "Activity",
+    "name": "Ho Chi Minh City Activity 314",
+    "city": "Ho Chi Minh City",
+    "description": "A unique experience in Ho Chi Minh City where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "history"
+    ],
+    "semantic_text": "Participate in this activity in Ho Chi Minh City to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "activity_315",
+    "type": "Activity",
+    "name": "Ho Chi Minh City Activity 315",
+    "city": "Ho Chi Minh City",
+    "description": "A unique experience in Ho Chi Minh City where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "markets"
+    ],
+    "semantic_text": "Participate in this activity in Ho Chi Minh City to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_ho_chi_minh"
+      }
+    ]
+  },
+  {
+    "id": "attraction_316",
+    "type": "Attraction",
+    "name": "Mekong Delta Attraction 316",
+    "city": "Mekong Delta",
+    "description": "A popular attraction in Mekong Delta known for its cultural and scenic beauty. Perfect for tourists who love rural.",
+    "tags": [
+      "river"
+    ],
+    "semantic_text": "Explore this famous attraction in Mekong Delta, a destination loved for its rural vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "attraction_317",
+    "type": "Attraction",
+    "name": "Mekong Delta Attraction 317",
+    "city": "Mekong Delta",
+    "description": "A popular attraction in Mekong Delta known for its cultural and scenic beauty. Perfect for tourists who love river.",
+    "tags": [
+      "rural"
+    ],
+    "semantic_text": "Explore this famous attraction in Mekong Delta, a destination loved for its rural vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "attraction_318",
+    "type": "Attraction",
+    "name": "Mekong Delta Attraction 318",
+    "city": "Mekong Delta",
+    "description": "A popular attraction in Mekong Delta known for its cultural and scenic beauty. Perfect for tourists who love rural.",
+    "tags": [
+      "river"
+    ],
+    "semantic_text": "Explore this famous attraction in Mekong Delta, a destination loved for its river vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "attraction_319",
+    "type": "Attraction",
+    "name": "Mekong Delta Attraction 319",
+    "city": "Mekong Delta",
+    "description": "A popular attraction in Mekong Delta known for its cultural and scenic beauty. Perfect for tourists who love rural.",
+    "tags": [
+      "rural"
+    ],
+    "semantic_text": "Explore this famous attraction in Mekong Delta, a destination loved for its floating_markets vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "attraction_320",
+    "type": "Attraction",
+    "name": "Mekong Delta Attraction 320",
+    "city": "Mekong Delta",
+    "description": "A popular attraction in Mekong Delta known for its cultural and scenic beauty. Perfect for tourists who love rural.",
+    "tags": [
+      "rural"
+    ],
+    "semantic_text": "Explore this famous attraction in Mekong Delta, a destination loved for its river vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "attraction_321",
+    "type": "Attraction",
+    "name": "Mekong Delta Attraction 321",
+    "city": "Mekong Delta",
+    "description": "A popular attraction in Mekong Delta known for its cultural and scenic beauty. Perfect for tourists who love rural.",
+    "tags": [
+      "rural"
+    ],
+    "semantic_text": "Explore this famous attraction in Mekong Delta, a destination loved for its rural vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "attraction_322",
+    "type": "Attraction",
+    "name": "Mekong Delta Attraction 322",
+    "city": "Mekong Delta",
+    "description": "A popular attraction in Mekong Delta known for its cultural and scenic beauty. Perfect for tourists who love floating_markets.",
+    "tags": [
+      "floating_markets"
+    ],
+    "semantic_text": "Explore this famous attraction in Mekong Delta, a destination loved for its rural vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "attraction_323",
+    "type": "Attraction",
+    "name": "Mekong Delta Attraction 323",
+    "city": "Mekong Delta",
+    "description": "A popular attraction in Mekong Delta known for its cultural and scenic beauty. Perfect for tourists who love river.",
+    "tags": [
+      "river"
+    ],
+    "semantic_text": "Explore this famous attraction in Mekong Delta, a destination loved for its rural vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "attraction_324",
+    "type": "Attraction",
+    "name": "Mekong Delta Attraction 324",
+    "city": "Mekong Delta",
+    "description": "A popular attraction in Mekong Delta known for its cultural and scenic beauty. Perfect for tourists who love river.",
+    "tags": [
+      "river"
+    ],
+    "semantic_text": "Explore this famous attraction in Mekong Delta, a destination loved for its river vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "attraction_325",
+    "type": "Attraction",
+    "name": "Mekong Delta Attraction 325",
+    "city": "Mekong Delta",
+    "description": "A popular attraction in Mekong Delta known for its cultural and scenic beauty. Perfect for tourists who love floating_markets.",
+    "tags": [
+      "rural"
+    ],
+    "semantic_text": "Explore this famous attraction in Mekong Delta, a destination loved for its river vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "attraction_326",
+    "type": "Attraction",
+    "name": "Mekong Delta Attraction 326",
+    "city": "Mekong Delta",
+    "description": "A popular attraction in Mekong Delta known for its cultural and scenic beauty. Perfect for tourists who love rural.",
+    "tags": [
+      "river"
+    ],
+    "semantic_text": "Explore this famous attraction in Mekong Delta, a destination loved for its floating_markets vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "attraction_327",
+    "type": "Attraction",
+    "name": "Mekong Delta Attraction 327",
+    "city": "Mekong Delta",
+    "description": "A popular attraction in Mekong Delta known for its cultural and scenic beauty. Perfect for tourists who love rural.",
+    "tags": [
+      "floating_markets"
+    ],
+    "semantic_text": "Explore this famous attraction in Mekong Delta, a destination loved for its rural vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "attraction_328",
+    "type": "Attraction",
+    "name": "Mekong Delta Attraction 328",
+    "city": "Mekong Delta",
+    "description": "A popular attraction in Mekong Delta known for its cultural and scenic beauty. Perfect for tourists who love river.",
+    "tags": [
+      "river"
+    ],
+    "semantic_text": "Explore this famous attraction in Mekong Delta, a destination loved for its rural vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "attraction_329",
+    "type": "Attraction",
+    "name": "Mekong Delta Attraction 329",
+    "city": "Mekong Delta",
+    "description": "A popular attraction in Mekong Delta known for its cultural and scenic beauty. Perfect for tourists who love floating_markets.",
+    "tags": [
+      "rural"
+    ],
+    "semantic_text": "Explore this famous attraction in Mekong Delta, a destination loved for its river vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "attraction_330",
+    "type": "Attraction",
+    "name": "Mekong Delta Attraction 330",
+    "city": "Mekong Delta",
+    "description": "A popular attraction in Mekong Delta known for its cultural and scenic beauty. Perfect for tourists who love floating_markets.",
+    "tags": [
+      "river"
+    ],
+    "semantic_text": "Explore this famous attraction in Mekong Delta, a destination loved for its rural vibe and authentic experiences.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "hotel_331",
+    "type": "Hotel",
+    "name": "Mekong Delta Hotel 331",
+    "city": "Mekong Delta",
+    "description": "A cozy stay option in Mekong Delta offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "rural"
+    ],
+    "semantic_text": "Mekong Delta Hotel 331 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "hotel_332",
+    "type": "Hotel",
+    "name": "Mekong Delta Hotel 332",
+    "city": "Mekong Delta",
+    "description": "A cozy stay option in Mekong Delta offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "floating_markets"
+    ],
+    "semantic_text": "Mekong Delta Hotel 332 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "hotel_333",
+    "type": "Hotel",
+    "name": "Mekong Delta Hotel 333",
+    "city": "Mekong Delta",
+    "description": "A cozy stay option in Mekong Delta offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "floating_markets"
+    ],
+    "semantic_text": "Mekong Delta Hotel 333 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "hotel_334",
+    "type": "Hotel",
+    "name": "Mekong Delta Hotel 334",
+    "city": "Mekong Delta",
+    "description": "A cozy stay option in Mekong Delta offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "rural"
+    ],
+    "semantic_text": "Mekong Delta Hotel 334 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "hotel_335",
+    "type": "Hotel",
+    "name": "Mekong Delta Hotel 335",
+    "city": "Mekong Delta",
+    "description": "A cozy stay option in Mekong Delta offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "floating_markets"
+    ],
+    "semantic_text": "Mekong Delta Hotel 335 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "hotel_336",
+    "type": "Hotel",
+    "name": "Mekong Delta Hotel 336",
+    "city": "Mekong Delta",
+    "description": "A cozy stay option in Mekong Delta offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "river"
+    ],
+    "semantic_text": "Mekong Delta Hotel 336 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "hotel_337",
+    "type": "Hotel",
+    "name": "Mekong Delta Hotel 337",
+    "city": "Mekong Delta",
+    "description": "A cozy stay option in Mekong Delta offering comfort and local charm. Ideal for travelers looking for luxury experiences.",
+    "tags": [
+      "stay",
+      "rural"
+    ],
+    "semantic_text": "Mekong Delta Hotel 337 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "hotel_338",
+    "type": "Hotel",
+    "name": "Mekong Delta Hotel 338",
+    "city": "Mekong Delta",
+    "description": "A cozy stay option in Mekong Delta offering comfort and local charm. Ideal for travelers looking for boutique experiences.",
+    "tags": [
+      "stay",
+      "floating_markets"
+    ],
+    "semantic_text": "Mekong Delta Hotel 338 provides modern amenities and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "hotel_339",
+    "type": "Hotel",
+    "name": "Mekong Delta Hotel 339",
+    "city": "Mekong Delta",
+    "description": "A cozy stay option in Mekong Delta offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "river"
+    ],
+    "semantic_text": "Mekong Delta Hotel 339 provides panoramic views and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "hotel_340",
+    "type": "Hotel",
+    "name": "Mekong Delta Hotel 340",
+    "city": "Mekong Delta",
+    "description": "A cozy stay option in Mekong Delta offering comfort and local charm. Ideal for travelers looking for budget experiences.",
+    "tags": [
+      "stay",
+      "floating_markets"
+    ],
+    "semantic_text": "Mekong Delta Hotel 340 provides authentic interiors and local hospitality.",
+    "connections": [
+      {
+        "relation": "Located_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "activity_341",
+    "type": "Activity",
+    "name": "Mekong Delta Activity 341",
+    "city": "Mekong Delta",
+    "description": "A unique experience in Mekong Delta where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "river"
+    ],
+    "semantic_text": "Participate in this activity in Mekong Delta to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "activity_342",
+    "type": "Activity",
+    "name": "Mekong Delta Activity 342",
+    "city": "Mekong Delta",
+    "description": "A unique experience in Mekong Delta where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "rural"
+    ],
+    "semantic_text": "Participate in this activity in Mekong Delta to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "activity_343",
+    "type": "Activity",
+    "name": "Mekong Delta Activity 343",
+    "city": "Mekong Delta",
+    "description": "A unique experience in Mekong Delta where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "river"
+    ],
+    "semantic_text": "Participate in this activity in Mekong Delta to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "activity_344",
+    "type": "Activity",
+    "name": "Mekong Delta Activity 344",
+    "city": "Mekong Delta",
+    "description": "A unique experience in Mekong Delta where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "floating_markets"
+    ],
+    "semantic_text": "Participate in this activity in Mekong Delta to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "activity_345",
+    "type": "Activity",
+    "name": "Mekong Delta Activity 345",
+    "city": "Mekong Delta",
+    "description": "A unique experience in Mekong Delta where visitors can enjoy local markets.",
+    "tags": [
+      "experience",
+      "rural"
+    ],
+    "semantic_text": "Participate in this activity in Mekong Delta to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "activity_346",
+    "type": "Activity",
+    "name": "Mekong Delta Activity 346",
+    "city": "Mekong Delta",
+    "description": "A unique experience in Mekong Delta where visitors can enjoy boat rides.",
+    "tags": [
+      "experience",
+      "river"
+    ],
+    "semantic_text": "Participate in this activity in Mekong Delta to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "activity_347",
+    "type": "Activity",
+    "name": "Mekong Delta Activity 347",
+    "city": "Mekong Delta",
+    "description": "A unique experience in Mekong Delta where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "floating_markets"
+    ],
+    "semantic_text": "Participate in this activity in Mekong Delta to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "activity_348",
+    "type": "Activity",
+    "name": "Mekong Delta Activity 348",
+    "city": "Mekong Delta",
+    "description": "A unique experience in Mekong Delta where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "river"
+    ],
+    "semantic_text": "Participate in this activity in Mekong Delta to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "activity_349",
+    "type": "Activity",
+    "name": "Mekong Delta Activity 349",
+    "city": "Mekong Delta",
+    "description": "A unique experience in Mekong Delta where visitors can enjoy bicycle tours.",
+    "tags": [
+      "experience",
+      "river"
+    ],
+    "semantic_text": "Participate in this activity in Mekong Delta to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_mekong"
+      }
+    ]
+  },
+  {
+    "id": "activity_350",
+    "type": "Activity",
+    "name": "Mekong Delta Activity 350",
+    "city": "Mekong Delta",
+    "description": "A unique experience in Mekong Delta where visitors can enjoy cooking classes.",
+    "tags": [
+      "experience",
+      "rural"
+    ],
+    "semantic_text": "Participate in this activity in Mekong Delta to explore authentic local experiences and connect with Vietnamese culture.",
+    "connections": [
+      {
+        "relation": "Available_In",
+        "target": "city_mekong"
+      }
+    ]
+  }
+]
