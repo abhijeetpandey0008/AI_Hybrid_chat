@@ -177,18 +177,6 @@ Top results: Hanoi, Ho Chi Minh City, Da Nang
 
 ---
 
-## 🧪 Blue Enigma Evaluation Criteria
-
-| Metric | Weight | Description |
-|--------|--------|-------------|
-| ✅ Pipeline Integration | 30% | All three layers connected properly |
-| 🔍 Semantic Relevance | 25% | Contextually accurate responses |
-| 🔗 Graph Enrichment | 20% | Logical relationship reasoning |
-| 💬 Conversational Clarity | 15% | Natural, concise outputs |
-| 🧾 Documentation + Demo | 10% | Clean README + functional Loom demo |
-
----
-
 ## 🎥 Demo Video
 🎬 [Add your Loom demo link here](https://loom.com/)  
 
@@ -201,10 +189,9 @@ Top results: Hanoi, Ho Chi Minh City, Da Nang
 ---
 
 ## 👨‍💻 Author
-**Abhijeet Pandey**  
-📍 Sasaram, Bihar, India  
-📧 [your.email@example.com]  
-🌐 [GitHub: abhijeetpandey-dev](https://github.com/abhijeetpandey-dev)
+**Abhijeet Pandey**   
+📧 [abhijeetpandey1219@gmail.com]
+🌐 [GitHub: abhijeetpandey-dev](https://github.com/abhijeetpandey0008)
 
 ---
 
